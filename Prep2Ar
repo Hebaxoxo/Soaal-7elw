@@ -373,262 +373,262 @@
         var lightboxData = [{
                 id: 1,
                 heading: '1.1 الذرات عندها عدد مختلف من البروتونات في نواتها: فكرة العناصر',
-                content: '<p><strong>Demonstration: <a href="https://smartgraphs-activities.concord.org/activities/339-describing-velocity/student_preview/">Describing velocity</a></strong></p><ul><li>Go through an interactive experience learning how to describe velocity!</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtube.com/playlist?list=PL7A1F4CF36C085DE1&amp;si=wawkGpiovf5jpShe">شوف كل عنصر في الحقيقة!</a></p><ul>	<li>اكتشف ازاي كل عنصر مختلف بشكل اساسي.</li></ul>',
             },
             {
                 id: 2,
                 heading: '1.2 الجدول الدوري مر بتطورات كتير حسب المعلومات التي كنا عارفينها.',
-                content: '<div style="text-align: left; padding:20px;"><p><strong>Demonstration:</strong> <a href="https://youtu.be/0RRVV4Diomg?si=S0b8zfFfCLxrvjUj">Discover Mendeleev&#39;s weirdly tragic story!</a></p><ul><li>Explore the evolution of element classification. With the discovery of atomic numbers and electrons, things had to change!</li></ul></div>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/0RRVV4Diomg?si=S0b8zfFfCLxrvjUj">اكتشف قصة منديليف الغريبة والمأساوية!</a></p><ul>	<li>استكشف تطور تصنيف العناصر. مع اكتشاف أرقام الذرة والإلكترونات، كان لازم نغير الدنيا!</li></ul>',
             },
             {
                 id: 3,
                 heading: '1.3 !والفايز...الجدول الدوري الحديث',
-                content: '<p><strong>Demonstration:</strong> <a href="https://artsexperiments.withgoogle.com/periodic-table/?lang=en">Interactive Periodic Table</a></p><ul><li>Use an interactive periodic table and see all the elements in 3D!</li><li><a href="https://youtu.be/rz4Dd1I_fX0?si=mJ02x2MwWnGHdu1Z">Memorize all the elements like its NOTHING</a></li></ul><blockquote><p>💡 Reminder: the modern periodic table is not perfect! It is very possible that we will find new information that leads us to a completely new model.</p></blockquote></div>',
+                content: 'p><strong>العرض التوضيحي:</strong> <a href="https://artsexperiments.withgoogle.com/periodic-table/?lang=en">الجدول الدوري التفاعلي</a></p><ul><li>استخدم جدول دوري تفاعلي وشوف كل العناصر في ثلاث أبعاد!</li><li><a href="https://youtu.be/rz4Dd1I_fX0?si=mJ02x2MwWnGHdu1Z">احفظ كل العناصر كأنها ولا حاجة</a></li></ul><p>💡 تذكير: الجدول الدوري الحديث مش مثالي! ممكن جدًا نلاقي معلومات جديدة تودينا لنموذج جديد. تمامًا</p>',
             },
             {
                 id: 4,
                 heading: '2.1 حجم الذرة بيعتمد على احتواء الذرة للإلكترونات ومستويات الطاقة ',
-                content: '<p><strong>Demonstration:</strong> <a href="https://teachchemistry.org/classroom-resources/periodic-trends-simulation">Compare their sizes!</a></p><ul><li>Explore how atomic size changes based on the content of electrons and energy levels.<!-- notionvc: 803c13cc-02ff-4cff-bcaf-b25204703570 --><!-- notionvc: 7558ae4b-c957-47df-96f4-838a986a3931 --></li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://teachchemistry.org/classroom-resources/periodic-trends-simulation">قارن بين أحجامهم!</a></p><ul><li>اكتشف ازاي حجم الذرةب بيتغير بناءً على عدد الإلكترونات ومستويات الطاقة.</li></ul>'
             },
             {
                 id: 5,
                 heading: '2.2 في بعض الذرات بتجذب الإلكترونات أكتر من البعض الآخر.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/7RxYTFu745I?si=Zs9cCI3RyiORwy8W&amp;t=271">Unequal Sharing</a> <a href="https://youtu.be/_xznIV66-FA?si=2vjFzfZOzhe0hCnE">Stealing</a> <a href="https://phet.colorado.edu/sims/html/molecule-polarity/latest/molecule-polarity_all.html">Control bonds!</a></p><ul><li>Understand the concept of electronegativity and its impact on chemical bonds.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/7RxYTFu745I?si=Zs9cCI3RyiORwy8W&amp;t=271">التقاسم غير المتكافئ</a> <a href="https://youtu.be/_xznIV66-FA?si=2vjFzfZOzhe0hCnE">السرقة</a> <a href="https://phet.colorado.edu/sims/html/molecule-polarity/latest/molecule-polarity_all.html">تحكم في الروابط!</a></p><ul><li>فهم مفهوم الكهرسلبية وتأثيرها على الروابط الكيميائية.</li></ul>'
             },
             {
                 id: 6,
                 heading: '2.3 العناصر بتتصنف على أساس هذه الخاصية إلى أربعة أنواع: الفلزات - اللافلزات - المعادن الشبه فلزية - الغازات النبيلة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://ptable.com/?lang=en#Properties/Electronegativity">Periodic Table Classification</a></p><ul><li>See how elements are classified into categories based on their electronegativity!</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://ptable.com/?lang=en#Properties/Electronegativity">تصنيف الجدول الدوري</a></p><ul>	<li>افهم ازاي يتم تصنيف العناصر إلى فئات بناءً على كهرسلبيتها!</li></ul>'
             },
             {
                 id: 7,
                 heading: '3.1 !القلويات هما قمة المعادن، الإلكترونة ماسكة بالعافية',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/eaChisV5uR0?si=EPg16l00z4sFZPmL">Alkali Metals and water!</a> <a href="https://youtu.be/7C-deQqhQjs?si=27EpfJI9lSA3hsgi">Alkali Metals in Nature</a></p><ul><li>Explore the reactivity of alkali metals and understand the concept of the barely hanging-on electron.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/eaChisV5uR0?si=EPg16l00z4sFZPmL">المعادن القلوية والماء!</a> <a href="https://youtu.be/7C-deQqhQjs?si=27EpfJI9lSA3hsgi">المعادن القلوية في الطبيعة</a></p><ul>	<li>استكشف نشاط المعادن القلوي والإلكترون الي عايز يمشي.</li></ul>'
             },
             {
                 id: 8,
                 heading: '3.2 الهالوجينات هما قمة اللافلزات، بيحتاجوا لـإلكترونة واحدة بس',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/EvtyMr5EvBY?si=BeDi7y1LTaguTi4n">Halogens and Wool</a> <a href="https://youtu.be/gtzPMEzEsII?si=E8RPeNndMw1JPqLO">Watch bromine become solid!</a></p><ul><li>Learn about the reactivity of halogens and their need for one more electron.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/EvtyMr5EvBY?si=BeDi7y1LTaguTi4n">الهالوجينات والصوف</a> <a href="https://youtu.be/gtzPMEzEsII?si=E8RPeNndMw1JPqLO">شاهد البرومين يتحول إلى صلب!</a></p><ul><li>تعرف على نشاط الهالوجينات وحاجتها إلى إلكترون زيادة.</li></ul>'
             },
             {
                 id: 9,
                 heading: '3.3 احنا بنتلاعب بالكيماويات في كل مجالات الحياة والصناعة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/B78kCyxXgSQ?si=7cVaxAdScy5sYcGu">Uses of Alkalis</a></p><ul>	<li>Explore how alkalis and halogens are manipulated for various purposes in everyday life and industry.</li></ul><p>💡 <a href="https://youtu.be/QL61-kPeHpo?si=zTEnOG5a__a81EHN">What happens when bromine and cesium mix&hellip;.? Oh no.</a></p><p><br />'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/B78kCyxXgSQ?si=7cVaxAdScy5sYcGu">استخدامات القواعد</a></p><ul>	<li>استكشف كيف يتم استخدام القواعد والهالوجينات لأغراض مختلفة في الحياة اليومية والصناعة.</li></ul><p>💡 <a href="https://youtu.be/QL61-kPeHpo?si=zTEnOG5a__a81EHN">اعوي تحط بروم علي سيزيوم.....</a></p>'
             },
             {
                 id: 10,
                 heading: '4.1 الروابط الهيدروجينية هي السبب فكدا ',
-                content: '<p><strong>Demonstration:</strong> <a href="https://lab.concord.org/embeddable.html#interactives/sam/intermolecular-attractions/6-hydrogen-bonds-a-special-type-of-attraction.json">Water Molecules Simulation!</a> <a href="https://youtu.be/ASLUY2U1M-8?si=fDg5r0byRYEQah7y">How polarity works in water</a></p><ul><li>Explore the concept of hydrogen bonds and their role in water properties.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://lab.concord.org/embeddable.html#interactives/sam/intermolecular-attractions/6-hydrogen-bonds-a-special-type-of-attraction.json">محاكاة جزيئات الماء!</a> <a href="https://youtu.be/ASLUY2U1M-8?si=fDg5r0byRYEQah7y">القطبية في الماء</a></p><ul><li>افهم فكرة روابط الهيدروجين ودورها في خصائص الماء.</li></ul><p>💡 !ملحوظة: ده جزء من اللي بيخليها مفيدة جدًا للحياة</p>'
             },
             {
                 id: 11,
                 heading: '4.2  الماء عنده نقط غليان وتجمد عالية بزيادة وبيكون أخف كامادة صلبة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/hdik-ySEetI?si=ZaELtq3xJ0-zk0Pw">The strangeness of water</a> <a href="https://youtu.be/UukRgqzk-KE?si=26yyhyZN8UpqJkBI">Why Ice floats!</a></p><ul><li>Understand why water exhibits abnormally high boiling and freezing points and is less dense as a solid.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/hdik-ySEetI?si=ZaELtq3xJ0-zk0Pw">غرابة الماء</a> <a href="https://youtu.be/UukRgqzk-KE?si=26yyhyZN8UpqJkBI">ليه الجليدي يطفو</a></p><ul><li>افهم ليه الماء نقط غليانه وتجمده عالية بشكل غير طبيعي و ليه أقل كثافة و هو صلبً.</li></ul>'
             },
             {
                 id: 12,
                 heading: '4.3 الماء لا يميل وقابل للتفكك بواسطة الكهرباء',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/8V3OY5cqQyg?si=QToHpOGTRwDdPqgC">Watch the Electrolysis of Water happen!</a></p><ul>	<li>Witness the electrolysis of water to understand how it can be broken apart with electricity.<!-- notionvc: 1247605c-f137-485c-a0ad-ffedddca8778 --><br />'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/8V3OY5cqQyg?si=QToHpOGTRwDdPqgC">شوف تحلل الماء بالكهرباء!</a></p><ul>	<li>شوف بعنيك تحلل الماء لفهم ازاي ممكن تفكيكه بالتيار الكهربائي.</li></ul>'
             },
             {
                 id: 13,
                 heading: '4.4 الماء معرض للخطر: احنا بنلوث معظم مياهنا',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/8V3OY5cqQyg?si=QToHpOGTRwDdPqgC">Water Pollution Experiment</a></p><ul><li>Gain insights into water pollution by conducting a simple water pollution experiment.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/8V3OY5cqQyg?si=QToHpOGTRwDdPqgC">تجربة تلوث المياه</a></p><ul>	<li>تخيل تلوث المياه اكتر من خلال إجراء تجربة بسيطة لتلوث المياه.</li></ul>'
             },
             {
                 id: 14,
                 heading: '1.1 !أنت دايمًا شايل عمود من الهواء',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/cNh3N_1e4wQ?si=rOG4I5PjNWuPy1b8">Atmospheric Pressure Experiment</a> <a href="https://youtu.be/9157bs2vv8Y?si=KfvoLAr_4g0k2vaB">Another one!</a></p><ul><li>Explore atmospheric pressure through a simple experiment.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/cNh3N_1e4wQ?si=rOG4I5PjNWuPy1b8">تجربة ضغط الجو</a> <a href="https://youtu.be/9157bs2vv8Y?si=KfvoLAr_4g0k2vaB">تجربة تانية!</a></p><ul><li>افهم الضغط الجوي من خلال تجربة بسيطة.</li></ul>'
             },
             {
                 id: 15,
                 heading: '1.2 لغلاف الجوي مقسم إلى طبقات استنادًا إلى درجة الحرارة!',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/cNh3N_1e4wQ?si=rOG4I5PjNWuPy1b8">Atmospheric Pressure Experiment</a> <a href="https://youtu.be/9157bs2vv8Y?si=KfvoLAr_4g0k2vaB">Another one!</a></p><ul><li>Explore atmospheric pressure through a simple experiment.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/2wRy_8NWZk0?si=P9jR2LaLDUo-r-9m">استكشاف الغلاف الجوي</a> <a href="https://youtu.be/11ZI9aqurfA?si=qEwMGXTly8uZ-dvD">الغلاف الجوي دا بيعمل ايه اصلا</a></p><ul><li>فهم طبقات الغلاف الجوي بتفصيل!</li></ul>'
             },
             {
                 id: 16,
                 heading: '2.1 الأوزون بيتكون لما الأكسجين بيتكسر',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/HVoiP-L8QuU?si=Q8ilW15HU4IcXh-2">Ozone Production Visualized</a> <a href="https://svs.gsfc.nasa.gov/4764">What the ozone layer looks like now!</a></p><ul><li>See how ozone molecules are produced in the stratosphere.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/HVoiP-L8QuU?si=Q8ilW15HU4IcXh-2">تصور إنتاج الأوزون</a> <a href="https://svs.gsfc.nasa.gov/4764">شوف شكل طبقة الاوزون دلوقتي</a></p><ul><li>افهم ازاي يتم إنتاج جزيئات الأوزون في الستراتوسفير.</li></ul>',
             },
             {
                 id: 17,
                 heading: '2.2 في بعض الملوثات بتضر طبقة الأوزون',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/Q15t5NQ1Aik?si=KmL2_4Kk6yH-10AQ">Here&rsquo;s how we damaged the ozone layer.</a></p><ul><li>Simulate the effects of pollutants on the ozone layer to understand the concept of ozone layer depletion.</li</ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/Q15t5NQ1Aik?si=KmL2_4Kk6yH-10AQ">ازاي بوظنا طبقة الأوزون.</a></p><ul><li>شوف تأثير الملوثات على طبقة الأوزون لفهم مفهوم استنزاف طبقة الأوزون.</li></ul>',
             },
             {
                 id: 18,
                 heading: ' 2.3 ظاهرة الاحتباس الحراري بتسبب التغير المنتاخي',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/EKrpa3eLBgQ?si=tsfa4wTF0XH5Mfz4">Greenhouse Effect Experiment</a> <a href="https://youtu.be/hphdsLcSTYQ?si=FqgoYNeJz5IXUmqG">What&rsquo;s warming the earth?</a> <a href="https://youtu.be/sg6-_6crLlM?si=NvhP6xemmLxQRqzS">How we know it&rsquo;s our fault</a></p><ul><li>Explore the greenhouse effect through a hands-on experiment and how we know climate change is caused by human activity.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/EKrpa3eLBgQ?si=tsfa4wTF0XH5Mfz4">تجربة تأثير البيوت الزراعية</a> <a href="https://youtu.be/hphdsLcSTYQ?si=FqgoYNeJz5IXUmqG">ايه الي بيسخن الأرض؟</a> <a href="https://youtu.be/sg6-_6crLlM?si=NvhP6xemmLxQRqzS">ازاي عارفين أنها غلطتنا</a></p><ul><li>استكشف ظاهرة الاحتباس الحراري من خلال تجربة عملية ازاي عارفين أن تغير المناخ سببه الإنسان.</li></ul>',
             },
             {
                 id: 19,
                 heading: '2.4 التغير المناخي بيؤثر على كل الكائنات الحية',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/HsAUGbUgx6Y?si=b0HcZq8A4JEZILHa">Climate Change and Its Impacts</a></p><ul><li>Learn about the impacts of global warming on living organisms. We&rsquo;re not trying to save the planet, we&rsquo;re trying to save us!</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/HsAUGbUgx6Y?si=b0HcZq8A4JEZILHa">تغير المناخ وتأثيراته</a></p><ul><li>تعرف على تأثيرات الاحتباس الحراري على الكائنات الحية. احنا مش بنحاول ننقذ الكوكب، الكوكب مش في خطر. احنا بنحوال ننقذ أنفسنا</li></ul>',
             },
             {
                 id: 20,
                 heading: '2.5 شفاء طبقة الأوزون بيدي سبب للأمل',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/CaLOiGEDPJQ?si=WxLO-4m0KV1rVEzt">Why we never hear about the ozone anymore.</a></p><ul><li>Explore the progress in healing the ozone layer through visual representations.<!-- notionvc: bc15d754-c6df-42fe-a0dd-1c245681851e --></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/CaLOiGEDPJQ?si=WxLO-4m0KV1rVEzt">ليه مبقيناش نسمع عن طبقة الأوزون بعد الآن.</a></p><ul><li>استكشف التقدم في علاج طبقة الأوزون و ازاي دا يدل اننا نقدر نقلل من التغير المناخي.</li></ul>',
             },
             {
                 id: 21,
                 heading: '1.1 الحفريات هي جزء محفوظ من الماضي البعيد',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/XT_0_wMgPAo?si=8d5AcRLFV8tioyqL">Fossilization Process</a> <a href="https://youtu.be/bRuSmxJo_iA?si=j_nerqUwoaifji4T">Fossils 101</a></p><ul><li>Explore the process of fossilization through visuals!</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/XT_0_wMgPAo?si=8d5AcRLFV8tioyqL">عملية التحجر</a> / <a href="https://youtu.be/bRuSmxJo_iA?si=j_nerqUwoaifji4T">اساسيات الأحافير</a></p><ul>	<li>استكشف عملية التحجر من خلال المرئيات!</li></ul>',
             },
             {
                 id: 22,
                 heading: '1.2 !الكربون بيساعدنا نحدد أعمار الصخور',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/Kcuz1JiMk9k?si=aukMVudn_Z0cI7eX">Carbon Dating Explained</a></p><ul><li>Understand the concept of carbon dating and its role in dating rocks and fossils.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/Kcuz1JiMk9k?si=aukMVudn_Z0cI7eX">شرح تقنية الكربون المشع</a></p><ul><li>افهم فكرة تقنية الكربون المشع ودورها في تحديد عمر الصخور والأحافير.</li></ul>',
             },
             {
                 id: 23,
                 heading: '2.1 الفصائل بتنقرض بسبب عوامل كتير',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/RAdNCIIYXvo?si=Ln2Aa15HRGgpPb_u">How common are mass extinctions?</a></p><ul><li><p>Explore the various factors leading to the extinction of species through this timeline.<br /><img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/tieme.png" style="float:left; height:250px; width:400px" /></p></li></ul><ul><li><!-- notionvc: 4192c55c-f656-43e5-9126-7cb08a15f34d --><img alt="" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0cc0119c-4848-4649-9d23-b2a63bf3a06d%2F7fac9e40-ba1e-455e-af34-56b147042642%2FUntitled.png?table=block&amp;id=f3aad8c1-88a4-4fbc-9a36-44816d5fd6ee&amp;spaceId=0cc0119c-4848-4649-9d23-b2a63bf3a06d&amp;width=2000&amp;userId=deedee69-f47b-4ebb-bc94-32ed09dde03f&amp;cache=v2" /><!-- notionvc: bc15d754-c6df-42fe-a0dd-1c245681851e --></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/RAdNCIIYXvo?si=Ln2Aa15HRGgpPb_u">مدى شيوع الانقراض الجماعي؟</a></p><ul><li><p>استكشف العوامل المختلفة الي بتؤدي إلى انقراض الأنواع من خلال هذا الجدول الزمني.</p></li></ul><p><!-- notionvc: a9bcccd9-c241-4550-81fb-2d895473db41 --></p><p><!-- notionvc: 5e188ff0-8e8d-4507-9ef0-b3fabb2e4622 --><!-- notionvc: 5b846fb9-48f4-4ed5-9650-87f2acb89852 --><img src="https://ckeditor.com/apps/ckfinder/userfiles/files/TIME.png" style="float:right; height:250px; width:400px" /><br />',
             },
             {
                 id: 24,
                 heading: '2.2 في فصائل انقرضت وفصائل على حافة الانقراض',
-                content: '<p><strong>Demonstration:</strong> <a href="https://cartovista.com/maps/endangered-species-mystery-map/">Endangered Species Interactive Map</a></p><ul><li>Explore the status of endangered species worldwide through an interactive map.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://cartovista.com/maps/endangered-species-mystery-map/">الخريطة التفاعلية للأنواع المهددة بالانقراض</a></p><ul><li>شوف وضع الأنواع المهددة بالانقراض في جميع أنحاء العالم من خلال خريطة تفاعلية.</li></ul>',
             },
             {
                 id: 25,
                 heading: '2.3  انقراض فصيلة واحدة بيأثر على بيئات كاملة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/GK_vRtHJZu4?si=ZRziRKs4GYxlctIq">Why biodiversity is important!</a></p><ul><li>Understand the ecological impact of species extinction.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/GK_vRtHJZu4?si=ZRziRKs4GYxlctIq">ليه التنوع البيولوجي مهمً!</a></p><ul>	<li>فهم التأثير البيئي لانقراض الأنواع.</li></ul>',
             },
             {
                 id: 26,
                 heading: '2.4 في طرق كتير لحماية الفصائل المهددة بالانقراض',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/e-yAO267tvE?si=HdickojfH8OLNZlS">Conservation Strategies</a> <a href="https://youtu.be/1rAlywzCpQg?si=VHv3ojhJ_3Hb7IP9">here&rsquo;s a TED talk on it</a></p><ul><li>Learn about conservation strategies to save endangered species.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/e-yAO267tvE?si=HdickojfH8OLNZlS">استراتيجيات الحفاظ</a> <a href="https://youtu.be/1rAlywzCpQg?si=VHv3ojhJ_3Hb7IP9">محاضرة تيد عن الحوار</a></p><ul><li>تعلم عن استراتيجيات الحفاظ لإنقاذ الأنواع المهددة بالانقراض.</li></ul>',
             },
             {
                 id: 27,
                 heading: '1.1 الحركة التكرارية ممكن تكون متأرجحة أو زي الموجة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/JSBw-JyFgZk?si=Zgv9KkI1RY3urjJ-">Circular Motion vs. Wave Motion</a></p><ul><li>Explore the difference and connection between circular motion and wave motion through a visual demonstration.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/JSBw-JyFgZk?si=Zgv9KkI1RY3urjJ-">الحركة الدائرية ضد الحركة الموجية</a></p><ul><li>افهم الفرق والارتباط بين الحركة الدائرية والحركة الموجية من خلال عرض توضيحي بصري.</li></ul>',
             },
             {
                 id: 28,
                 heading: '1.2 الحركة المتأرجحة ممكن نمثلها بيانيًا',
-                content: '<p><strong>Demonstration:</strong> <a href="https://javalab.org/en/spring_pendulum_en/">Graphical Representation of Oscillatory Motion</a></p><ul><li>Represent oscillatory motion graphically through an interactive simulation.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://javalab.org/en/spring_pendulum_en/">التمثيل البياني للحركة التذبذبية</a></p><ul><li>قم بتمثيل الحركة التذبذبية بشكل بياني من خلال محاكاة تفاعلية.</li></ul>',
             },
             {
                 id: 29,
                 heading: '1.3 السعة بتقولك انت بعدت قد ايه في كل لفة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/2Kos5VrtTtA?si=Q50x4F2XZbJwtDkW">Understanding Amplitude in Waves</a></p><ul><li>Understand the concept of amplitude in waves through an informative video.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/2Kos5VrtTtA?si=Q50x4F2XZbJwtDkW">فهم الذبذبة في الموجات</a></p><ul><li>افهم فكرة الذبذبة في الموجات .</li></ul>',
             },
             {
                 id: 30,
                 heading: '1.4 الوقت اللي  اللي بتاخده اهتزازة كاملة ممكن تعبر عنه باستخدام الفترة والتردد',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/klN2-bCzJb4?si=tgHLYlWOQQSzAqcp">See wave speed</a></p><ul><li>Learn about period and frequency in waves.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/klN2-bCzJb4?si=tgHLYlWOQQSzAqcp">شاهد سرعة الموجة</a></p><ul><li>تعلم عن فترة وتردد الموجات.</li></ul>',
             },
             {
                 id: 31,
                 heading: '2.1 الموجة هي اضطراب بينتشر وبينقل طاقة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/VE520z_ugcU?si=EuRxQ5v1eG5TFSB_">Wave Propagation Experiment</a> <a href="https://javalab.org/en/wave_propagation_en/">Play around with it yourself!</a></p><ul>	<li>Explore how waves propagate and transfer energy through a simple experiment.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/VE520z_ugcU?si=EuRxQ5v1eG5TFSB_">تجربة انتشار الموجة</a> <a href="https://javalab.org/en/wave_propagation_en/">جربها بنفسك!</a></p><ul><li>استكشف ازاي الموجات بنتشتر وبتنقل الطاقة من خلال تجربة بسيطة.</li></ul>',
             },
             {
                 id: 32,
                heading: '!الموجات ممكن تتصنف برضو',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/Rbuhdo0AZDU?si=EbIZ9zaWAPSSAPMM">Transverse and longitudinal waves</a> <a href="https://youtu.be/BxtiKodKq_E?si=mVtEKvWc2AppfFHH">you can try this!</a></p><ul><li>Learn about the classification of travelling waves.<!-- notionvc: c6129335-17b4-4f89-baba-c6744156070e --></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/Rbuhdo0AZDU?si=EbIZ9zaWAPSSAPMM">الموجات العرضية والطولية</a> <a href="https://youtu.be/BxtiKodKq_E?si=mVtEKvWc2AppfFHH">ممكن تجرب دا</a></p><ul>	<li>تعلم عن تصنيف الموجات المتحركة.</li></ul>',
             },
             {
                 id: 33,
                 heading: '2.3  الموجة الميكانيكية بتشوش المادة و الموجات الكهرومغناطيسية بتشوش الطاقة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://ophysics.com/em3.html">See Electromagnetic Waves</a> <a href="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_all.html">Play with mechanical waves</a> <a href="https://youtu.be/5Bnws5tpPtM?si=55gVwdz4yYmN5eue">quick explanation</a></p><ul><li>Understand the difference between mechanical and electromagnetic waves through an informative video.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://ophysics.com/em3.html">شاهد الموجات</a> <a href="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_all.html">العب مع الموجات الميكانيكية</a> <a href="https://youtu.be/5Bnws5tpPtM?si=55gVwdz4yYmN5eue">شرح سريع</a></p><ul>	<li>فهم الفرق بين الموجات الميكانيكية والموجات الكهرومغناطيسية.</li></ul>',
             },
             {
                 id: 34,
                 heading: '2.4  حركة الموجة هي مجرد حركة تذبذبية تنتشر!',
-                content: '<p><strong>Demonstration:</strong> <a href="https://ophysics.com/w0.html">See how they&#39;re all connected</a></p><ul><li>Compare oscillatory motion and wave motion through a visual demonstration.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://ophysics.com/w0.html">شوف ازاي مرتبطين ببعض</a></p><ul>	<li>افهم العلاقة بين الحركة التذبذبية والحركة الموجية من خلال عرض توضيحي بصري.</li></ul>',
             },
             {
                 id: 35,
                 heading: '1.1  !موجات الصوت بتنتشر على شكل دواير',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/MwsGULCvMBk?si=ip8-IVEAY_O3-NC2">Sound Propagation Visualization</a> <a href="https://youtu.be/XLfQpv2ZRPU?si=TE1ikHaxiA8Y5Brj">Understanding Sound Waves</a></p><ul><li>Visualize how sound waves propagate!</li>	<li><a href="https://musiclab.chromeexperiments.com/Sound-Waves/">Make your own music sound waves!</a></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/MwsGULCvMBk?si=ip8-IVEAY_O3-NC2">تصور انتشار الصوت</a> <a href="https://youtu.be/XLfQpv2ZRPU?si=TE1ikHaxiA8Y5Brj">فهم موجات الصوت</a></p><ul>	<li>نصور ازاي موجات الصوت! بنتشر</li>	<li><a href="https://musiclab.chromeexperiments.com/Sound-Waves/">اعمل موجات صوت موسيقية</a><!-- notionvc: 3785c042-047d-45db-9c84-35b264feecc2 --></li></ul>',
             },
             {
                 id: 36,
                 heading: '1.2 الارتفاع والشدة بيقولنا الصوت عالي ولا رفيع ',
-                content: '<p><strong>Demonstration:</strong> <a href="https://javalab.org/en/sound_analyzing_en/">Try your own voice</a> <a href="https://javalab.org/en/sound_wave_en/">Sound Intensity Simulator</a></p><ul><li>Understand the concept of pitch and intensity through your own voice!</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://javalab.org/en/sound_wave_en/">محاكاة شدة الصوت</a> <a href="https://javalab.org/en/sound_analyzing_en/">جرب صوتك الخاص</a></p><ul>	<li>اتعلم عن شدة الصوت وازاي بترتبط بالصوت العالي من خلال هذه المحاكاة.</li></ul>',
             },
             {
                 id: 37,
                 heading: '1.3 جودة الصوت بتيمحلنا نمييز بين الأصوات',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/mevjV5pcITc?si=bf1iaHshvTVRv5HI">All the properties summarized</a></p><ul><li>Explore how sound quality and timbre help differentiate sounds<!-- notionvc: a475715a-1b37-4595-8368-d1e89df00689 --></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/mevjV5pcITc?si=bf1iaHshvTVRv5HI">تلخيص جميع الخصائص</a></p><ul><li>استكشف ازاي بساعد جودة الصوت والتمييز الصوتي في التفريق بين الأصوات.</li></ul>',
             },
             {
                 id: 38,
                 heading: '1.4 في بعض الأصوات منقدرش نسمعها',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/4JLNb8-LOB0?si=X1FPBmt2A3iTyGcC">Ultrasound vision</a> <a href="https://youtu.be/D7mU7YohbK0?si=qp3AA1GG9aG622X0">Infrasound Explored</a></p><ul><li>Explore the concepts of infrasound and ultrasound and how they are beyond the range of human hearing.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/4JLNb8-LOB0?si=X1FPBmt2A3iTyGcC">رؤية الأمواج فوق الصوتية</a> <a href="https://youtu.be/D7mU7YohbK0?si=qp3AA1GG9aG622X0">استكشاف الأمواج تحت الصوت</a></p><ul><li>استكشف مفاهيم الأمواج تحت الصوت وفوق الصوت وازاي هي خارج نطاق السمع البشري.</li></ul>',
             },
             {
                 id: 39,
                 heading: '2.1 الضوء المرئي دا جزء من الطيف الكهرومغناطيسي',
-                content: '<p><strong>Demonstration:</strong> <a href="https://javalab.org/en/electromagnetic_waves_around_of_visible_rays_en/">Electromagnetic Spectrum Visualization</a></p><ul><li>Visualize the electromagnetic spectrum and the position of visible light through an interactive simulation.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://javalab.org/en/electromagnetic_waves_around_of_visible_rays_en/">تصور طيف الكهرومغناطيسي</a></p><ul>	<li>تصور الطيف الكهرومغناطيسي وموقع الضوء المرئي من خلال محاكاة تفاعلية.</li></ul>',
             },
             {
                 id: 40,
                 heading: '2.2 الضوء الأبيض هو خليط من سبعة ألوان نقدر نحللهم',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/uucYGK_Ymp0?si=eVEAnn2Mew2y7qjs">See how Newton split white light!</a></p><ul><li>Understand how white light can be analyzed into its seven colors.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/uucYGK_Ymp0?si=eVEAnn2Mew2y7qjs">شوف ازاي نيوتن قسم الضوء الأبيض!</a></p><ul><li>فهم ازاي يمكن تحليل الضوء الأبيض لسبع ألوان.</li></ul>',
             },
             {
                 id: 41,
                 heading: '2.3 الضوء بيمشي في خطوط مستقيمة ',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/Hh4lregaYes?si=sR-2IEukH-SWr8f7">Light movement demonstration</a></strong></p><ul><li>Simulate the behavior of light traveling in straight linesز</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/Hh4lregaYes?si=sR-2IEukH-SWr8f7">عرض حركة الضوء</a></p><ul><li>قم بمحاكاة سلوك الضوء و هو ماشي في خطوط مستقيمة</li></ul>',
             },
             {
                 id: 42,
                 heading: '3.1 كل شيء يعكس الضوء',
-                content: '<p><strong>Demonstration</strong>: <a href="https://youtu.be/WN1yCigL3Hk?si=ZzY20YJV3TphoeTM">What are colors?!</a>&nbsp;/&nbsp;<a href="https://youtu.be/l8_fZPHasdo?si=eoPYuFt47g2g4S-t">How we see color</a>&nbsp;/ <a href="https://javalab.org/en/rainbow_colors_en/">Simulation</a></p><ul><li>Understand how everything reflects light and how it lets us see color!</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/WN1yCigL3Hk?si=ZzY20YJV3TphoeTM">ايه هي الألوان؟</a> <a href="https://youtu.be/l8_fZPHasdo?si=eoPYuFt47g2g4S-t">ازاي بنشوف الألوان</a> <a href="https://javalab.org/en/rainbow_colors_en/">محاكاة</a></p><ul><li>افهم ازاي كل حاجة بتعكس الضوء ازاي بنقدر نشوف الألوان!</li></ul>',
             },
             {
                 id: 43,
                 heading: '3.2 !الضوء بينعكس تبع قوانين دقيقة جدا',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/ETF2-Zz3J18?si=s9XvXLKENcP2F9hc">See the Laws of Light Reflection</a>&nbsp; /&nbsp;<a href="https://javalab.org/en/principle_of_mirror_en/">Simulation</a></p><ul><li>Learn about the precise rules governing light reflection.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/ETF2-Zz3J18?si=s9XvXLKENcP2F9hc">شوف قوانين انعكاس الضوء</a> <a href="https://javalab.org/en/principle_of_mirror_en/">محاكاة</a></p><ul>	<li>افهم القواعد الدقيقة الي بتحكم انعكاس الضوء .</li></ul>',
             },
             {
                 id: 44,
                 heading: '3.3 الضوء ممكن يتكسر',
-                content: '<p><strong>Demonstration:</strong> <a href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_en.html">Refraction of Light Simulation</a></p><ul><li>Explore the concept of refraction of light through a simple experiment.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_en.html">محاكاة انكسار الضوء</a></p><ul>	<li>استكشف مفهوم انكسار الضوء من خلال تجربة بسيطة.</li></ul>',
             },
             {
                 id: 45,
                 heading: '1.1 الزهور ليها أجناس بيولوجية برضو',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/YrpfVlMbisc?si=rETYjXAmW9NwqPAs">Flower Anatomy Exploration</a></p><ul><li>Explore the anatomy of flowers, including the four floral whorls.</li></ul>',
+                content: '<p><strong>عرض توضيحي:</strong> <a href="https://youtu.be/YrpfVlMbisc?si=rETYjXAmW9NwqPAs">استكشاف تشريح الزهور</a></p><ul>	<li>استكشف تشريح الزهور والأجزاء الأربع للزهرة.<!-- notionvc: 0b09491e-3f50-4386-b02d-a3944b0eabad --></li></ul>',
             },
             {
                 id: 46,
                 heading: '1.2 التلقيح هو اول خطوة في التكاثر النبات',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/hCloCHwrJdQ?si=WgfdKw0oqpu6Epia">Pollination Process Visualization</a></p><ul><li>Visualize the process of pollination, the first step of sexual reproduction in plants.</li></ul>',
+                content: '<p><strong>عرض توضيحي:</strong> <a href="https://youtu.be/hCloCHwrJdQ?si=WgfdKw0oqpu6Epia">تصوير عملية التلقيح</a></p><ul>	<li>تصور عملية التلقيح، الخطوة الأولى في التكاثر الجنسي للنباتات.</li></ul>',
             },
             {
                 id: 47,
                 heading: '1.3 التخصيب في النباتات هو اندماج الخلايا الذكرية (حبوب اللقاح) مع الخلايا الأنثوية (البويضات)',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/y-emlY6DBH8?si=1t0CqFuh1UbW93V1">Fertilization in Plants Explained</a></p><ul><li>Learn about the process of fertilization in plants, including the fusion of male and female cells.</li></ul>',
+                content: '<p><strong>عرض توضيحي:</strong> <a href="https://youtu.be/y-emlY6DBH8?si=1t0CqFuh1UbW93V1">شرح عملية التخصيب في النباتات</a></p><ul>	<li>تعرّف على عملية التخصيب في النباتات، بما في ذلك اندماج الخلايا الذكرية والأنثوية</li></ul>',
             },
             {
                 id: 48,
                 heading: '1.4 !بعض النباتات قادرة تتكاثر مع نفسها ',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/Fr500MTBFKk?si=miH98aqpUneVHrcI">Asexual Reproduction in Plants</a></p><ul><li>Explore how some plants can reproduce asexually through various plant parts, including roots, stems, leaves, or buds.</li></ul>',
+                content: '<p><strong>عرض توضيحي:</strong> <a href="https://youtu.be/Fr500MTBFKk?si=miH98aqpUneVHrcI">التكاثر اللاجنسي في النباتات</a></p><ul>	<li>اكتشف ازاي ممكن لبعض النباتات انها تتكاثر بطرق لاجنسية من خلال أجزاء مختلفة من النبات، بما في ذلك الجذور والسيقان والأوراق أو البراعم.</li></ul>',
             },
             {
                 id: 49,
                 heading: '2.1 التكاثر الجنسي هو مصدر التنوع في الفصيلة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://www.khanacademy.org/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:reproduction-and-genetic-variation/v/sexual-reproduction-and-genetic-variation">The Advantage of Sexual Reproduction</a></p><ul><li>Explore the significance of sexual reproduction in generating genetic diversity.</li></ul>',
+                content: '<p><strong>عرض توضيحي:</strong> <a href="https://www.khanacademy.org/science/ms-biology/x0c5bb03129646fd6:inheritance-and-variation/x0c5bb03129646fd6:reproduction-and-genetic-variation/v/sexual-reproduction-and-genetic-variation">اهمية التكاثر الجنسي</a></p><ul>	<li>استكشف أهمية التكاثر الجنسي في التنوع الوراثي.</li></ul>',
             },
             {
                 id: 50,
                 heading: '2.2  !كل جاميت (البويضة والحيوان المنوي) فية 23 صبغية بس',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/_7rsH2loIY8?si=sFui3qPsT6NvSVtw">All the terminology</a></p><ul><li>Explore how gametes (ovum and sperm) are formed and their chromosomal content.</li></ul>',
+                content: '<p><strong>عرض توضيحي:</strong> <a href="https://youtu.be/_7rsH2loIY8?si=sFui3qPsT6NvSVtw">جميع المصطلحات</a></p><ul><li>شوف ازاي كيف يتم تكوين الجاميت (البويضة والحيوان المنوي) ومحتواهما الكروموسومي.</li></ul>',
             },
             {
                 id: 51,
                 heading: '2.3 تغيرت الكائنات الحية للسماح بالتكاثر الجنسي',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/_7rsH2loIY8?si=sFui3qPsT6NvSVtw">Reproductive Systems</a></p><ul>	<li>Understand the anatomy of the reproductive system and how it allows for reproduction.</li></ul>',
+                content: '<p><strong>عرض توضيحي:</strong> <a href="https://youtu.be/_7rsH2loIY8?si=sFui3qPsT6NvSVtw">أنظمة التكاثر</a></p><ul><li>افهم تشريح الجهاز التناسلي وازاي بيسمح بعملية التكاثر</li></ul>',
             },
             {
                 id: 52,
                 heading: '2.4 أمراض الجهاز التناسلي يمكن تنتقل جنسيًا أو لا ',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/gVH1gY05MsA?si=0eTzd3isIPkGJ5og">Understanding Genital System Diseases</a></p><ul><li>Gain insights into diseases of the genital system, both sexually transmitted and non-sexually transmitted and how to avoid them.</li></ul>',
+                content: '<p><strong>عرض توضيحي:</strong> <a href="https://youtu.be/gVH1gY05MsA?si=0eTzd3isIPkGJ5og">فهم أمراض الجهاز التناسلي</a></p><ul><li>افهم أمراض الجهاز التناسلي، سواء كانت منتقلة جنسيًا أو غير منتقلة جنسيًا وازاي تتفاديها</li></ul>',
             },
         ];
 
