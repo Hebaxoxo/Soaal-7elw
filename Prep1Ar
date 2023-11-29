@@ -387,267 +387,267 @@
             {
                 id: 1,
                 heading: '1.1 الكثافة بتعرفنا كمية المادة ',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/SvlvRv3zQf8?si=kEydIGxld3-Zwfrn">Density Tower Experiment</a></p><ul><li>Create a density tower with liquids of different densities to visually demonstrate how density affects the arrangement of substances.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/SvlvRv3zQf8?si=kEydIGxld3-Zwfrn">تجربة برج الكثافة</a></p><ul><li>اعمل برج كثافة باستخدام سوائل ذات كثافات مختلفة لتوضيح بصري كيف يؤثر الكثافة على ترتيب المواد.</li></ul>',
             },
             {
                 id: 2,
                 heading: '1.2 في خواص معينة بتساعدنا نفرق بين الحاجة ',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/gSmW8YiJWfw?si=YzwFRwzOSFwzE0HO">Physical and Chemical Changes</a> and <a href="https://www.science-sparks.com/skittles-experiment/">Skittles Experiment</a></p><ul><li>Explore and identify physical and chemical changes in substances through hands-on experiments.</li><li>See how skittles melting demonstrates physical and chemical changes.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/gSmW8YiJWfw?si=YzwFRwzOSFwzE0HO">التغييرات الفيزيائية والكيميائية</a> و <a href="https://www.science-sparks.com/skittles-experiment/">تجربة السكيتلز</a></p><ul>	<li>استكشف وحدد التغييرات الفيزيائية والكيميائية في المواد من خلال تجارب عملية.</li><li>شوف إزاي ذوبان السكيتلز بيوضح التغييرات الفيزيائية والكيميائية.</li></ul>',
             },
             {
                 id: 3,
                 heading: '1.3 في بعض المواد ملهاش لا لون ولا طعم ولا ريحة بس احنا عارفين تريكات  بنقدر نتعرف عليها بيهم',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/_THkdBA8NIU?si=AqzoOf4xSNkOlhbi">Mystery Powders Lab</a></p><ul><li>Act like a detective! Use various tests to identify unknown powders by observing their physical and chemical properties.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/_THkdBA8NIU?si=AqzoOf4xSNkOlhbi">معمل المساحيق الغامضة</a></p><ul><li>اتصرف زي المحقق! استخدم اختبارات مختلفة لتحديد مساحيق مجهولة عن طريق ملاحظة خصائصها الفيزيائية والكيميائية.</li></ul>',
             },
             {
                 id: 4,
                 heading: '1.4 كل مادة ليها درجة غليان وانصهار مميزة ليها',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/VMQOLjXtTXw?si=phMFZvniNaYbL3vW">Learn about melting and boiling points through liquid nitrogen</a></strong>&nbsp; /&nbsp;<a href="https://youtu.be/_m4Z3mSgS18?si=k0wV0gqsqeZLY2S0">The Hunt for the Highest Melting Point</a></p><ul><li>Explore the concept of melting and boiling points by investigating the temperature at which different substances change state.</li>	<li>Learn about our search for the highest and lowest melting points.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/VMQOLjXtTXw?si=phMFZvniNaYbL3vW">تعرف على نقطة الانصهار والغليان من خلال النيتروجين السائل</a> <a href="https://youtu.be/_m4Z3mSgS18?si=k0wV0gqsqeZLY2S0">بحث عن أعلى نقطة انصهار</a></p><ul><li>استكشف مفهوم نقاط الانصهار والغليان من خلال دراسة درجة حرارة تغيير حالة مواد مختلفة.</li><li>تعرف على بحثنا عن أعلى وأقل نقاط انصهار.</li></ul>'
             },
              {
                 id: 5,
                 heading: '2.1 الذرات مش كور صغيرة وخلاص, في حاجات جواها',
-                content: '<p><strong>Demonstration:</strong> &quot;<a href="https://phet.colorado.edu/en/simulations/build-an-atom">Atomic Model Construction</a>&quot;</p><ul><li>Build models of atoms to visualize their structure and understand that they are not simple spheres.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> &quot;<a href="https://phet.colorado.edu/en/simulations/build-an-atom">إنشاء نموذج ذري</a>&quot;</p><ul>	<li>ابني نماذج للذرات لتصور هيكلها وافهم أنها مليانة حاجات<!-- notionvc: e6cd5650-ad04-48c1-8d56-9664c8b34404 --></li></ul>'
             },
              {
                 id: 6,
                 heading: '2.2 بتنقسم الذرات ل 118 عنصر علي حسب عدد البروتونات',
-                content: '<p><strong>Demonstration:</strong> &quot;<a href="https://www.coolperiodictable.com/">Explore the Periodic Table&quot;</a></p><ul>	<li>Explore the organization of the periodic table and understand how elements are arranged based on their atomic number.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> &quot;<a href="https://www.coolperiodictable.com/">استكشاف الجدول الدوري</a>&quot;</p><ul><li>استكشف تنظيم الجدول الدوري وافهم ازاي بنربتب العناصر بناءً على عددها الذري.</li></ul>'
             },
              {
                 id: 7,
                 heading: '2.3 بنستخدم لغة متفق علياه عشان نتكلم عن الذرات',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/XsaWN302SJA?si=rblBrf-4oc3CDxNC&amp;t=239">&quot;Building Atoms with Candy&quot;</a> (start at 4:00)</p><ul><li>Use candy to represent subatomic particles and build atoms to understand atomic notation.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/XsaWN302SJA?si=rblBrf-4oc3CDxNC&amp;t=239">&quot;بناء الذرات باستخدام الحلوى&quot;</a> (ابدأ من الدقيقة 4:00)</p><ul>	<li>استخدم البونوني لتمثيل الجزيئات الفرعية ولبتي الذرات لفهم التدوين الذري<!-- notionvc: fb525013-36bb-4d5f-b662-c3c7a6fa471f --></li></ul>'
             },
             {
                 id: 8,
                 heading: '2.4 الإلكترونات بتقدر تبقي موجودة في مستويات طاقة معينة بس منقدرش تبقي موجودة بين المستويات دي',
-                content: '<p><strong>Demonstration:</strong> <a href="https://javalab.org/en/electron_configuration_en/">&quot;Electron Shell Model&quot;</a></p><ul><li>Demonstrate how electrons occupy specific energy levels around the nucleus of an atom. See those weird S and P letters, don&rsquo;t worry about them for now! That&rsquo;s for the secondary stage.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://javalab.org/en/electron_configuration_en/">&quot;نموذج قشرة الإلكترونات&quot;</a></p><ul><li>شوف ازاي الإلكترونات بتحتل مستويات طاقة محددة حول نواة الذرة.</li><li>شوف الأحرف الغريبة دي، متقلقش منهم حاليًا! دي حاجات للمرحلة الثانوية.</li></ul>'
             },
             {
                 id: 9,
                 heading: '2.5 الإلكترونات هيي سبب التفاعلات الكيميائية ,بيتفاعلو عشان يقللو طاقتهم ',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/Ks-diH3i8aY?si=1A_9mv9ksLhxihDp">&quot;See how valence electrons affect chemical reactions&quot;</a></p><ul><li>Illustrate chemical reactions and how valence electrons are involved.</li></ul><p>💡 You might be wondering how we even know all this! We can&rsquo;t see atoms right? You&rsquo;ll study this in detail in sec 2. If you&rsquo;re really curious, you can ask us!</p>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/Ks-diH3i8aY?si=1A_9mv9ksLhxihDp">&quot;راقب كيف تؤثر الإلكترونات الفالنسية على التفاعلات الكيميائية&quot;</a></p><ul><li>قدم رسمًا توضيحيًا للتفاعلات الكيميائية وازاي بتتورط فيها الإلكترونات الفالنسية.</li></ul><p>💡 ممكن تبقي مستغرب احنا ازاي اصلا عارفين كل دا واحنا مش بنقدر نشوف الذرات ؟ هتفهم دا بالتفصيل في سنة تانية ثانوي. بس لو عندك فضول اوي تقدر تسألنا!</p><p>&nbsp;</p>'
             },
         {
                 id: 10,
                 heading: '3.1 الجزيئات ممكن تبقي عناصر أو مركبات ',
-                content: '<p><strong>Demonstration:</strong> <a href="https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_all.html">Building Molecules in 3D</a></p><ul><li><p>Play around with elements and compounds in their 3D shapes</p></li><li>	<p>Extra idea:</p></li><li><p><img src="https://ckeditor.com/apps/ckfinder/userfiles/files/marsh.png" style="height:323px; width:400px" /></p>	</li><li><p>Construct molecules using marshmallows to represent atoms use different colors to visualize the difference between elements and compounds.</p></li></ul>'
+                content: 'p><strong>العرض التوضيحي:</strong> <a href="https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_all.html">بناء الجزيئات ثلاثية الأبعاد</a></p><ul>	<li>العب بالعناصر والمركبات في أشكالهم ثلاثية الأبعاد.</li>	<li>فكرة زيادة</li></ul>'
             },
          {
                 id: 11,
                 heading: '3.2 في مساحة فاضية بين الجزيئات ',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/tt-mx25t7rA?si=v7-nw7rEHvlRrshx&amp;t=73">Is The Beaker Full?</a></strong></p><ul>	<li>Explore the concept of intramolecular spaces through increasingly smaller balls.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/tt-mx25t7rA?si=v7-nw7rEHvlRrshx&amp;t=73">البيكر مليان ولا لأ؟</a></p><ul><li>اكتشف فكرة المسافات بين الجزيئات جوا الجسم بتدريج وكأنك بتستخدم كرات صغيرة بتصغر أكتر وأكتر.</li></ul>'
             },
          {
                 id: 12,
                 heading: '3.3 !الجزيئات في حالة حركة مستمرة',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/JnIkGtkO-Js?si=VhejpfzIIgPhKisF">Where Will the Carbon go?</a></strong></p><ul><li>Observe in detail how molecules actually move. (This video is higher level but extremely useful. if you don&rsquo;t perfectly understand, that&rsquo;s okay!)</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/JnIkGtkO-Js?si=VhejpfzIIgPhKisF">هيروح الكاربون فين؟</a></p><ul><li>راقب بتفصيل إزاي الجزيئات بتتحرك فعلا. (الفيديو ده مستوى أعلى بس مفيد جدا. لو مش فاهم كل حاجة، مش مشكلة!)</li></ul>'
             },
          {
                 id: 13,
                 heading: '3.4 بتختلف الجزيئات في درجة انجذابهم لبعض',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/1Jtw8g795Us?si=D5BxIJ9HMcgyL77X">Molecule motion in different states</a></strong>&nbsp;/&nbsp;<a href="https://youtu.be/VNb_C9iO7XU?si=vnEQzDadudqeuhxi">Lava Lamp</a></p><ul>	<li>Explore different substances to understand the varying strengths of intermolecular forces.<!-- notionvc: 38739456-8475-4d1e-91c6-3f107c0313f8 --></li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/1Jtw8g795Us?si=D5BxIJ9HMcgyL77X">حركة الجزيئات في حالات مختلفة</a> <a href="https://youtu.be/VNb_C9iO7XU?si=vnEQzDadudqeuhxi">لافا لامب</a></p><ul><li>استكشف مواد مختلفة عشان تفهم قوة الروابط بين الجزيئات.</li></ul>'
             },
 {
                 id: 14,
                 heading: '1.1 الطاقة الكامنة بتتوقف على مكان الحاجة وأي قوى بتأثر عليها',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/Y106ljNbLE8?si=2xY1OrkOfd_ZQ970">Potential Energy Track</a></p><ul><li>Explore potential energy by demonstrating how it depends on the position of an object and the forces acting on it.</li></ul>'
+                content: '<p>💡 !حقيقي، محدش عارف الطاقة دي عبارة عن اية... الخبراء لسة متفقوش</p><p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/Y106ljNbLE8?si=2xY1OrkOfd_ZQ970">مسار الطاقة الكامنة</a></p><ul>	<li><p>استكشف الطاقة الكامنة بطريقة توضيحية توضح كيف تعتمد على موقف الجسم والقوى اللي بتؤثر عليه.</p>	<p>💡 ممكن تكون سمعت ان الطاقة &ldquo;متخزنة&rdquo; جوة الجسم, بس هي مش ببتخزن حرفيا</p>	</li></ul>'
             },
         {
                 id: 15,
                 heading: '1.2 الطاقة الحركية بتتوقف على حركة الحاجة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/69T9qnIIrJA?si=doyjMrpuoZz88puB">Clashing spheres!</a></p><ul><li>Explore how kinetic energy transfers through crashing spheres.</li></ul><p><!-- notionvc: 910c270b-1e2d-4ca0-bb54-cc7fefa2aece --></p><p>&nbsp;💡 Both forms of energy depend on mass!</p><p>&nbsp;</p>'
+                content: '<<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/69T9qnIIrJA?si=doyjMrpuoZz88puB">اصطدام الكور!</a></p><ul><li>استكشف إزاي الطاقة بتنتقل وتتحرك بين الكور لما تتصدم مع بعض.</li></ul><p>💡 النوعين دول بيعتمدوا على الكتلة!</p><p>&nbsp;</p>'
             },
             {
                 id: 16,
                 heading: '2.1 الطاقة مش بتتنتج ولا بتتستهلك، بس بتنقل من شكل لشكل تاني.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_all.html">Transform Energy!</a></p><ul><li>Demonstrate energy transfer between different forms to illustrate the conservation of energy.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_all.html">غيِّر شكل الطاقة!</a></p><ul><li>عرض كيفية انتقال الطاقة بين أشكال مختلفة عشان نوضح فكرة حفظ الطاقة.</li></ul><p>💡 <em><strong>من بداية الكون، إجمالي الطاقة متغيرش!</strong></em></p>',
             },
             {
                 id: 17,
                 heading: '2.2 الطاقة الميكانيكية بتتحرك بين الحركي والكامن',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/0LnbyjOyEQ8?si=LDkcRL-z6-359iNy">Back and forth</a> <a href="https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_all.htm">Control a skater!</a></p><ul>	<li>Explore the swinging between kinetic and potential energy through Newton&rsquo;s Cradle. You can see potential energy transform into kinetic energy and vice versa!</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/0LnbyjOyEQ8?si=LDkcRL-z6-359iNy">ورا وقدام</a> <a href="https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_all.htm">اتحكم في السكيتر!</a></p><ul>	<li>شوف المرجحة بين الطاقة الحركية والكامنة من خلال &quot;كريدل نيوتن&quot;. هتشوف ازاي الطاقة الكامنة بتتحول لطاقة حركية والعكس!</li></ul>',
             },
             {
                 id: 18,
                 heading: '2.3 الكهرباء ببساطة عبارة عن تحول للطاقة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/dVqilOFerCs?si=LS1flzbBhnw5ou5p">Electricity and Energy Transformation</a></p><ul><li>Explore electricity as a form of energy transformation in various experiments.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/dVqilOFerCs?si=LS1flzbBhnw5ou5p">الكهربا وتحويل الطاقة</a></p><ul><li>اكتشف الكهربا كنوع من أنواع تحويل الطاقة في تجارب متنوعة.</li></ul>',
             },
             {
                 id: 19,
                 heading: '3.1 درجة الحرارة مجرد متوسط سرعة حركة الجزيئات في شيء! ',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/4CKoKsz-mck?si=TyFfF9hzVAHfCOKX">&quot;Marbles with Energy&quot;</a></strong></p><ul><li>Investigate the relationship between speed, collisions, and temperature through this device.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/4CKoKsz-mck?si=TyFfF9hzVAHfCOKX">&quot;كور مع طاقة&quot;</a></p><ul><li>ادرس العلاقة بين السرعة والاصطدامات ودرجة الحرارة من خلال هذا الجهاز.</li></ul>',
             },
             {
                 id: 20,
                 heading: '3.2 لما الجزيئات اللي أسرع تنقل طاقتها الحركية للأبطأ، بيحصل نقل للحرارة!',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/kNZi12OV9Xc?si=NT0kch3OgfrF0o-V">&quot;Conduction, Convection, Radiation&quot;</a></p><ul><li>Explore heat transfer through conduction, convection, and radiation using simple experiments.</li></ul><p><!-- notionvc: 1edbb142-0f57-494d-95e7-5d51bbd48cbc --></p><p>💡 the kinetic energy can be transferred through two surfaces touching or through radiation!</p>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/kNZi12OV9Xc?si=NT0kch3OgfrF0o-V">&quot;توصيل، وتحرك، وإشعاع&quot;</a></p><ul><li>استكشف نقل الحرارة من خلال التوصيل والتحرك والإشعاع باستخدام تجارب بسيطة.</li></ul><p>💡 الطاقة الحركية بتنقل عن طريق تلامس الأسطح أو عن طريق الإشعاع!</p>',
             },
             {
                 id: 21,
                 heading: '1.1 الكائنات الحية متنوعة، حتى لو على مستوى الخلية الواحدة!',
-                content: '<p><strong>Demonstration:</strong> <a href="https://www.britannica.com/video/150206/Paramecia-organisms-pond-water">&quot;Microscope Investigation of Microorganisms&quot;</a></p><ul><li>Use microscopes to observe and compare different types of microorganisms, highlighting the diversity at the single-cellular level.</li>	<li>If you&rsquo;re interested, <a href="https://www.youtube.com/@journeytomicro">Journey to the Microcosmos</a> is an entire channel dedicated to microorganisms.</li></ul>',
+                content: '<p>💡 الخلية واحدة ممكن تعتبر حية!</p><p><strong>العرض التوضيحي:</strong> <a href="https://www.britannica.com/video/150206/Paramecia-organisms-pond-water">&quot;تحقيق بالميكروسكوب للكائنات الدقيقة&quot;</a></p><ul>	<li>استخدم الميكروسكوب علشان تتابع وتقارن أنواع مختلفة من الكائنات الدقيقة، وشوف التنوع على مستوى الخلية الواحدة.</li><li>إذا كنت مهتم، <a href="https://www.youtube.com/@journeytomicro">رحلة إلى الدقيقة</a> هي قناة مميزة كلها عن العالم الدقيق.</li></ul>',
             },
             {
                 id: 22,
                 heading: '1.2 !لما بندرس الكائنات الحية بنتكشف أنماط مشتركة',
-                content: '<p><strong>Demonstration:</strong> &quot;<a href="https://youtu.be/xwFM006dacM?si=B8QYoxFdcbY2pE10">Classification of Living Organisms&quot;</a></p><ul><li>Explore the concept of classification by hearing different intuitive examples.</li>	<li><a href="https://en.wikipedia.org/wiki/Carl_Linnaeus">Linnaeus remained himself that because he thought latin names were cooler</a></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> &quot;<a href="https://youtu.be/xwFM006dacM?si=B8QYoxFdcbY2pE10">تصنيف الكائنات الحية</a>&quot;</p><ul><li>استكشف مفهوم التصنيف من خلال سماع أمثلة بسيطة ومفهومة.</li><li><a href="https://en.wikipedia.org/wiki/Carl_Linnaeus">لينيوس سمي نفسه دا عشان كان شايف أسماء اللاتينية أحلى</a><!-- notionvc: 95fab9ea-bc7b-4818-806d-8a9f5d489a5b --></li></ul>',
             },
             {
                 id: 23,
                 heading: '1.3 تقسيم الحيوانات لفئات بيساعدنا ندرسهم كمجموعات (اللي هو أسهل بكتييييير من دراسة كل فصيلة لوحدها)',
-                content: '<p><strong>Demonstration:</strong> <a href="https://www.sheppardsoftware.com/science/animals/games/animal-characteristics/">Animal Classification Sorting Activity&quot;</a> <a href="https://www.brainpop.com/games/sortifyanimals/?topic_id=">Here&rsquo;s another!</a></p><ul>	<li>Engage in a hands-on sorting activity to understand the principles of categorizing animals into groups for study.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://www.sheppardsoftware.com/science/animals/games/animal-characteristics/">نشاط تصنيف الحيوانات</a> <a href="https://www.brainpop.com/games/sortifyanimals/?topic_id=">وهنا نشاط تاني</a></p><ul>	<li>افهم مبادئ تصنيف الحيوانات وتقسيمها إلى مجموعات للدراسة.<a href="https://en.wikipedia.org/wiki/Carl_Linnaeus"><!-- notionvc: cfdb0c92-befe-48c5-b418-59d04a4af03b --></a><!-- notionvc: 95fab9ea-bc7b-4818-806d-8a9f5d489a5b --></li></ul>',
             },
                {
                 id: 24,
                 heading: '2.1 الكائنات الحية بتتكيف مع بيئتها على مر الأجيال',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/0ZGbIKd0XrM?si=O6eCEfkF5AzabhuE">Natural Selection Simulation</a></p><ul><li><strong>Description:</strong> Simulate the process of natural selection to understand how random changes over generations lead to adaptations that enhance survival.</li></ul><p><em>[Pssst if you don&rsquo;t know what &ldquo;natural selection&rdquo; means, don&rsquo;t worry! It&rsquo;s just the process by which adaptation happnes]</em><!-- notionvc: 6463f415-2f3c-49e8-8cc5-786e46e433c9 --></p><p><!-- notionvc: 5f19d639-504c-4001-8674-750e31aacde8 --></p><p>💡 How does this happen? From one generation to another, <strong>random changes can happen!</strong> If a change helps the organism survive, they&rsquo;ll be most likely to reproduce. So over many generations, the organisms with the best adaptions are the one that survive.</p>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/0ZGbIKd0XrM?si=O6eCEfkF5AzabhuE">محاكاة اختيار الطبيعة</a></p><ul><li>جرّب عملية اختيار الطبيعة علشان تفهم إزاي التغييرات العشوائية على مر الأجيال بتودي لتكيفات تزيد من فرص البقاء.</li></ul><p>[هاي، لو ما معرفتش &quot;اختيار الطبيعة&quot; يعني ايه متقلقش! دي بس العملية اللي بيحصل بيها التأقلم]</p><p>&nbsp;💡 ازاي ده بيحصل؟ من جيل لجيل، <strong>تغييرات عشوائية ممكنة!</strong> لو التغيير بيساعد الكائن على البقاء، هو هيكون أكثر احتمالية يتكاثر. فعلى مر الأجيال، الكائنات اللي عندها أفضل تكيفات هي اللي بتعيش.</p>',
             },
                {
                 id: 25,
                 heading: '2.2 التكيف بيظهر بأشكال مختلفة، ممكن يكون حركة، تمويه، وحاجات تانية كتير.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/NdAmT_OLM2U?si=Ege-gb46XnOn707c&amp;t=92">Camouflage in action</a></p><ul><li><strong>Description:</strong> Try out this game with a friend to see how camouflage helps animals survive.</li></ul>',
+                content: '<<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/NdAmT_OLM2U?si=Ege-gb46XnOn707c&amp;t=92">التمويه في العمل</a></p><ul><li>جرب اللعبةدي مع حد تاني عشان تشوف إزاي التمويه بيساعد الحيوانات على البقاء.</li></ul>',
             },
                {
                 id: 26,
                 heading: '1.1 العناصر المعدنية عندها أقل عدد من الإلكترونات في الطبقة الخارجية، و عاوزين يتخلصوا من الطبقة دي',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/Yj70bUtXd4Q?si=KAQDYbFKRnT-n9DN">See Metals react with water!</a></p><ul>	<li>Observe the reactivity of metals and nonmetals to understand how metals tend to lose electrons.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/Yj70bUtXd4Q?si=KAQDYbFKRnT-n9DN">شوف ردة فعل المعادن مع الماء</a></p><ul>	<li>راقب كيفية تفاعل المعادن عشان تفهم إزاي المعادن بتميل إنها تفقد إلكترونات.</li></ul>',
             },
              {
                 id: 27,
                 heading: '1.2 لعناصر غير المعدنية ليها عدد أكبر من الإلكترونات في الطبقة الخارجية، عاوزين يكملوا الطبقة دي.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/FJkQYsY2XtE?si=otWRw7YG-_VJO9jq">See sulphur react with oxygen</a></p><ul><li>Explore the reactivity of nonmetals to understand their tendency to gain electrons to complete their outer electron level.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/FJkQYsY2XtE?si=otWRw7YG-_VJO9jq">شوف ردة فعل الكبريت مع الأكسجين</a></p><ul><li>استكشف تفاعل العناصر غير المعدنية عشان تفهم إنها بتميل إنها تكسب إلكترونات عشان تكمل طبقتها الخارجية.</li></ul>',
             },
              {
                 id: 28,
                 heading: '1.3 في ذرات بتكون راضية تمامًا بالحياة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtube.com/playlist?list=PLBB52D59BE0C7B658&amp;si=oM37bZIgT0fmQs0T">See all the noble gases in real life</a></p><ul><li>Explore this playlist with info on each of the ever inert noble gases.</li><li><a href="https://youtu.be/rd5j8mG24H4?si=ZECyhs2KQQs1pq31">See this guy try to breath them all in</a> [do not repeat at home]</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtube.com/playlist?list=PLBB52D59BE0C7B658&amp;si=oM37bZIgT0fmQs0T">شوف كل الغازات النبيلة في الحياة الواقعية</a></p><ul>	<li>استكشف هالقائمة بتوضح معلومات عن كل غاز نبيل.</li>	<li><a href="https://youtu.be/rd5j8mG24H4?si=ZECyhs2KQQs1pq31">شوف الراجل ده وهو بيحاول يتنفس كلهم</a> [متكررش الحركة في البيت]</li></ul>',
             },
             {
                 id: 29,
                 heading: '1.4 في الروابط الأيونية، ذرة بتسرق إلكترونات من التانية',
-                content: '<p>💡 atoms stick together in ionic bonds because of electric attraction! After the electron exchange happens, there&rsquo;s a positive and negative ion. So, they&rsquo;re mutually attracted</p><p><strong>Demonstration:</strong> <a href="https://javalab.org/en/ionic_bond_2_en/">Ionic Bonding Simulation</a></p><p><!-- notionvc: d35c8ae0-43e0-4590-a501-25ead2e279a6 --></p><ul><li><strong>Play with</strong> ionic bonding to understand how atoms form positive and negative ions due to electron exchange.</li><li><a href="https://javalab.org/en/ion_model_en/">Like puzzle pieces</a></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://javalab.org/en/ionic_bond_2_en/">محاكاة الرابطة الأيونية</a></p><ul><li><strong>العب في</strong> الرابطة الأيونية عشان تفهم إزاي الذرات بتكون أيونات إيجابية وسالبة بسبب تبادل الإلكترونات.</li><li><a href="https://javalab.org/en/ion_model_en/">زي قطع اللغز</a></li></ul><p>💡 الذرات بتتلزق في الروابط الأيونية عشان الشد الكهربائي! بعد ما يحصل تبادل الإلكترونات، بيبقي أيون إيجابي واحد سالب. فبيتجذبوا لبعض<br />',
             },
             {
                 id: 30,
                 heading: '1.5 في الروابط التساهمية، محدش قوي كفاية عشان يسرق، فالإلكترونات بتتشارك',
-                content: '<p><strong>Demonstration:</strong> <a href="https://javalab.org/en/covalent_bond_en/">Covalent Bond Simulation</a></p><ul><li>Use this model to illustrate the sharing of electrons in covalent bonds.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://javalab.org/en/covalent_bond_en/">محاكاة الرابطة التساهمية</a></p><ul>	<li>استخدم النموذج دا عشان توضح كيفية مشاركة الإلكترونات في الرابطات التساهمية.</li></ul>',
             },
             {
                 id: 31,
                 heading: '2.1 الذرات جعانة وبتحتاج عدد معين من الإلكترونات عشان تشبع',
-                content: '<p><strong>Demonstration:</strong> <a href="https://phet.colorado.edu/en/simulations/build-an-atom">Valence Electron Simulation</a></p><ul><li>Explore the concept of valence electrons and how atoms achieve stability by gaining or losing electrons.</li><li><a href="https://youtu.be/6Ecr7m-0E0E?si=mrfxefQF8CPfgFZW">See a great explanation of the Octet Rule!</a></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://phet.colorado.edu/en/simulations/build-an-atom">محاكاة الإلكترونات الفالانسية</a></p><ul>	<li>استكشف مفهوم الإلكترونات الفالانسية وكيفية تحقيق الذرات للثبات عن طريق كسب أو فقدان الإلكترونات.</li><li><a href="https://youtu.be/6Ecr7m-0E0E?si=mrfxefQF8CPfgFZW">شوف شرح رائع لقاعدة الثمانية!</a><!-- notionvc: c8847186-afe7-49d7-84b2-d0a9035ba798 --></li></ul>',
             },
             {
                 id: 32,
                 heading: '2.2 المجموعات الذرية بتتصرف كأنها ذرة واحدة في التفاعلات',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/MJZeZvDxcx8?si=xNW0I56LKUUVf1Ro">Covalent bond with a charge</a></p><ul><li>Understand how atomic groups act like a single unit in chemical reactions</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/MJZeZvDxcx8?si=xNW0I56LKUUVf1Ro">روابطة تساهمية مشحونة</a></p><ul><li>فهم كيف تتصرف المجموعات الذرية مثل وحدة واحدة في التفاعلات الكيميائية</li></ul>',
             },
             {
                 id: 33,
                 heading: '2.3 الصيغ الكيميائية هي مجرد اختصارات علشان نعرف احنا بنتعامل مع أنهو مركب',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/KrJnnwLDY6o?si=FEOLrnFFMWE-hi9_">Simple way to write chemical formulas!</a></p><ul><li>Learn how chemical formulas serve as shortcuts to represent compounds and understand their composition.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/KrJnnwLDY6o?si=FEOLrnFFMWE-hi9_">طريقة بسيطة لكتابة الصيغ الكيميائية!</a></p><ul><li>تعلم إزاي الصيغ الكيميائية بتكون اختصارات علشان تمثل المركبات وتفهم تركيبها.</li></ul>',
             },
             {
                 id: 34,
                 heading: '2.4 المركبات الكيميائية بتنقسم لأحماض، قاوعد، أكاسيد، وأملاح، بناءً على تصرفاتها في التفاعلات',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/ApZQBkseQhM?si=McYVDolaKOH8iRfJ">Acids and Bases Experiment</a> <a href="https://youtu.be/a6dYHEC8A9g?si=UKPp4LcHJ_z_Onv1">Make your own acid/base indicator!</a></p><ul><li>Explore the properties of acids and bases to understand their classification in chemical reactions.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/ApZQBkseQhM?si=McYVDolaKOH8iRfJ">تجربة الأحماض والقواعد</a>/ <a href="https://youtu.be/a6dYHEC8A9g?si=UKPp4LcHJ_z_Onv1">اصنع مؤشر حمض/قاعدي خاص بك!</a></p><ul><li>استكشف خصائص الأحماض والقواعد عشان تفهم تصنيفهم في التفاعلات الكيميائية.</li></ul>',
             },
             {
                 id: 35,
                 heading: '3.1 التفاعلات الكيميائيةعبارة عن اعادة ترتيب للذرات',
-                content: '<p><strong>Demonstration:</strong> <a href="https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations/v/chemical-reactions-introduction">Intro to chemical reactions</a></p><ul><li>Explore chemical reactions and equations to understand how atoms rearrange during reactions.</li><li><a href="https://youtu.be/afD6eiKBdD4?si=5GMaCH3bRD9Mg1qB">Watch some cool reactions!</a></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations/v/chemical-reactions-introduction">مقدمة في التفاعلات الكيميائية</a></p><ul>	<li>استكشف التفاعلات الكيميائية والمعادلات عشان تفهم إزاي الذرات بتترتب في التفاعلات.</li>	<li><a href="https://youtu.be/afD6eiKBdD4?si=5GMaCH3bRD9Mg1qB">شوف تفاعلات رائغة!</a></li></ul>',
             },
             {
                 id: 36,
                 heading: '3.2 معادلات الكيمياء لازم تكون متوازنة عشان عدد الذرات بيظل ثابت',
-                content: '<p><strong>Demonstration:</strong> <a href="https://www.chemguide.co.uk/physical/https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations/v/visually-understanding-balancing-chemical-equationsequilibria/lechatelier.html">Visually Understanding it</a></p><ul><li>Learn the importance of balancing chemical equations to maintain the conservation of atoms.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://www.chemguide.co.uk/physical/https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations/v/visually-understanding-balancing-chemical-equationsequilibria/lechatelier.html">فهم الأمور بصورة بصرية</a></p><ul><li>تعلم أهمية موازنة المعادلات الكيميائية عشان الحفاظ على توازن عدد الذرات.</li></ul>',
             },
             {
                 id: 37,
                 heading: '3.3  في الظروف الصحيحة، العناصر أو المركبات بتقدر تتحد مع بعض',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/zZ0swLIM5yY?si=6aSgcR7-m7Rir27P">Combustion Reactions</a></p><ul>	<li>Explore combustion reactions (which can be an example of combination reactions!) to understand how elements or compounds combine under specific conditions.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/zZ0swLIM5yY?si=6aSgcR7-m7Rir27P">تفاعلات الاحتراق</a></p><ul><li>استكشف تفاعلات الاحتراق (اللي ممكن تكون مثال على التفاعلات التكاملية!) عشان تفهم إزاي العناصر أو المركبات بتتحد تحت ظروف معينة.</li></ul>',
             },
             {
                 id: 38,
                 heading: '3.4 التفاعلات الكيميائية ضرورية للحياة والكون بشكل عام',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/jb4CMnT2-ao?si=3rTtRYpOroYQkXtN">Learn about chemical reactions that changed history!</a> <a href="https://youtu.be/SGSFljxEM_Q?si=HlxlxUrFs092rRqR">Chemicals in your body</a> <a href="https://youtu.be/W8cX0YbRLFo?si=G8zs3bSB6IiEKj4j">How the sun shines</a></p><ul><li>We wouldn&rsquo;t be here without these reactions! Literally!</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/jb4CMnT2-ao?si=3rTtRYpOroYQkXtN">تعلم عن التفاعلات الكيميائية اللي غيّرت التاريخ!</a> <a href="https://youtu.be/SGSFljxEM_Q?si=HlxlxUrFs092rRqR">الكيماويات في جسمك</a> <a href="https://youtu.be/W8cX0YbRLFo?si=G8zs3bSB6IiEKj4j">كيف يشرق الشمس</a></p><ul>	<li>من غيرها مكناش هنبقي هنا! حرفيا !</li></ul>',
             },
             {
                 id: 39,
                 heading: '1.1 الجاذبية هي قوة بعيدة المدى، وكل حاجة ليها وزن ليها قوة جاذبية (حتى أنت)',
-                content: '<p><strong>Demonstration: <a href="https://www.testtubegames.com/gravity.html">Play around</a> <a href="https://www.testtubegames.com/gravity.html">with these</a> <a href="https://gravitysimulator.org/solar-system/jupiter-and-its-galilean-moons">gravity simulations!</a></strong></p><ul>	<li>Explore the concept of gravitational force and how it acts on objects wit varying mass.</li>	<li><a href="https://youtu.be/lcYhM9mONGU?si=ODSVO8A0kn_bCr9P">Fun experiments to try</a></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong><a href="https://www.testtubegames.com/gravity.html">العب</a> <a href="https://www.testtubegames.com/gravity.html">مع</a> <a href="https://gravitysimulator.org/solar-system/jupiter-and-its-galilean-moons">محاكاة الجاذبية!</a></p><ul><li>استكشف مفهوم قوة الجاذبية وكيفية تأثيرها على الأشياء بتباين في الكتلة.</li></ul><p><a href="https://youtu.be/lcYhM9mONGU?si=ODSVO8A0kn_bCr9P">تجارب ممتعة لتجربتها</a>، شاركها معنا وقول لنا إزاي تأثرت عليك!</p>',
             },
             {
                 id: 40,
                 heading: '1.2 !الكهرباء والمغناطيسية قوة واحدة بعيدة المدى',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/MSp-uXBh0bg?si=_Y7KFRB4YtxRKdjq">Electromagnetic Forces / Experiment</a>&nbsp;/&nbsp;<a href="https://youtu.be/x5MUtL_tSwE?si=3_bA-qMBkgo6a4Ut">See the link between electricity and magnetism</a></p><ul><li>Explore the relationship between electricity and magnetism as two sides of the same force.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/MSp-uXBh0bg?si=_Y7KFRB4YtxRKdjq">تجربة قوى الكهرومغناطيسية</a> <a href="https://youtu.be/x5MUtL_tSwE?si=3_bA-qMBkgo6a4Ut">شوف الرابط بين الكهرباء والمغناطيسية</a></p><ul><li>استكشف العلاقة بين الكهرباء والمغناطيسية كجانبين لنفس القوة.</li></ul>',
             },
             {
                 id: 41,
                 heading: '1.3 القوة النووية القويةقصيرة المدى وبتخلي البروتونات الإيجابية تلزق فبعض',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/Rx4lNihOT4U?si=VdLOGVr9QHDVl3eC">What does the Strong Nuclear Force look like?</a></p><ul><li>Understand the concept of the strong nuclear force and its role in keeping protons together through magnets.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/Rx4lNihOT4U?si=VdLOGVr9QHDVl3eC">القوة النووية القوية شكلها ايه؟</a></p><ul>	<li>فهم مفهوم القوة النووية القوية ودورها في الحفاظ على تجميع البروتونات من خلال المغناطيس.</li></ul>',
             },
             {
                 id: 42,
                 heading: '1.4 القوة النووية الضعيفة قوة قصيرة المدى بتسمح للذرات إنها تخسر بروتونات ',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/SmMxFQ42du0?si=auf_9kJe9wfqFoV8">Radioactive Decay Simulation</a> <a href="https://phet.colorado.edu/en/simulations/alpha-decay">Another one</a></p><ul><li>Simulate radioactive decay to understand the concept of the weak nuclear force.</li></ul><p><!-- notionvc: 77698d88-b793-435b-ab05-9105d4f3c076 --></p><p>💡 Ever wonder which force is the strongest? The order goes: strong nuclear force&gt; electromagnetism&gt; weak nuclear force&gt; gravity.</p><p><img src="https://ckeditor.com/apps/ckfinder/userfiles/files/hydro.png" style="height:483px; width:400px" /></p>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/SmMxFQ42du0?si=auf_9kJe9wfqFoV8">محاكاة تحلل الإشعاع</a> <a href="https://phet.colorado.edu/en/simulations/alpha-decay">واحدة تاني</a></p><ul>	<li>	<p>جرب المحاكاة دي لتفهم موضوع الإشعاع وقوته النووية الضعيفة،.</p>	<p>💡 اتسألت يوماً أي قوة أقوى؟ الترتيب بيكون: القوة النووية القوية &gt; الكهرومغناطيسية &gt; القوة النووية الضعيفة &gt; الجاذبية.</p></li><li>	<p>الجاذبية ضعيفة جداً لدرجة إن الرابطة الهيدروجينية في قطرة واحدة من الماء، اللي هي واحدة من أضعف أشكال القوة الكهرومغناطيسية، ممكن تكون أقوى من جاذبية كوكب كامل. (الصورة من الملكية العامة، المصدر: كريستوفر إس. بيرد<!-- notionvc: 1b9fd0ef-af20-43a9-9681-191ab853b444 --></p></li></ul><p><img src="https://ckeditor.com/apps/ckfinder/userfiles/files/hydroo-min.png" style="float:right; height:320px; width:400px" /><br />',
             },
             {
                 id: 43,
                 heading: '2.1 من غير قوة، لو الحاجة ثابتة أو بتتحرك، هتفضل كدا',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/RyASDbAPenU?si=vj-TpxAdGlnIB3jk">Inertia in Action</a> <a href="https://youtu.be/xkLGXe_al6g?si=jEWDDKFtAeL6vDui">You can easily try this one!</a></p><ul><li>Explore the concept of inertia and how objects resist changes in motion.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/RyASDbAPenU?si=vj-TpxAdGlnIB3jk">الطاقة الحركية في العمل</a> <a href="https://youtu.be/xkLGXe_al6g?si=jEWDDKFtAeL6vDui">جرب هذا بسهولة!</a></p><ul><li>استكشف مفهوم الطاقة الحركية وكيف تقاوم الأجسام التغييرات في الحركة.2 !الاحتكاك هو نتيجة للجذب الكهرومغنطيسي بين جزيئات سطحين</li></ul>',
             },
             {
                 id: 44,
                 heading: '2.2 الاحتكاك ناتج عن تجاذب بين جزيئات سطحين!',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/wwO2KQ7uZxY?si=ueU5QuIDSfj-fEmH">Friction slows things down</a></p><ul>	<li>Investigate friction by exploring the forces between molecules on two surfaces.</li>	<li><img src="https://ckeditor.com/apps/ckfinder/userfiles/files/fr.png" style="float:left; height:181px; width:400px" /></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/wwO2KQ7uZxY?si=ueU5QuIDSfj-fEmH">الاحتكاك بيبطئ الحاجات</a></p><ul><li><p>جرب الاحتكاك واكتشف القوى بين الجزيئات على السطحين.</p></li><li><p>ولما حاجتين تلمس بعض، جزيئاتهم بتجذب بعض، اللي بيبطئ الحركة!<img src="https://ckeditor.com/apps/ckfinder/userfiles/files/fr.png" style="float:right; height:181px; width:400px" /><br />',
             },
             {
                 id: 45,
                 heading: '3.1 نفس الحركة ممكن تبان مختلفة لناس مختلفة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/pmxH-E4mkyY?si=P6cxQRPRIWqc4xNC">Crossing the river</a> <a href="https://youtu.be/etE5urBps_w?si=O-bSbOB2DEW80Icu">&nbsp; /&nbsp;Catching the ball</a></p><ul><li>Understand relative motion by exploring how speeds in opposite directions cancel out.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/pmxH-E4mkyY?si=P6cxQRPRIWqc4xNC">عبور النهر</a> <a href="https://youtu.be/etE5urBps_w?si=O-bSbOB2DEW80Icu">إمساك الكرة</a></p><ul>	<li>افهم الحركة النسبية وان السرعات في اتجاهين معاكسين.بتلغي بعض</li></ul>',
             },
             {
                 id: 46,
                 heading: '3.2 !لو الحركة بتتكرر مرارًا وتكرارًا، بتبقى فيها خصائص مختلفة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/77ZF50ve6rs?si=T9tdpLg7fP8jP-Pg">A Professor risks his life!</a> <a href="https://youtu.be/YbVX-iwC5G8?si=HkOglt1ZQLFQCpOm">Why do clocks use pendulums?</a></p><ul><li>Explore the predictable properties of periodic motion and how this teacher demonstrates it bravely.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/77ZF50ve6rs?si=T9tdpLg7fP8jP-Pg">أستاذ يخاطر بحياته!</a> <a href="https://youtu.be/YbVX-iwC5G8?si=HkOglt1ZQLFQCpOm">ليه الساعات بتستخدم مراجل؟</a></p><ul>	<li>استمتع بفهم الخصائص المتكررة للحركة وشوف إزاي الأستاذ ده بيدينا عرض جريء.</li></ul>',
             },
             {
                 id: 47,
                 heading: '3.3 الأمواج هي حركة متكررة. لو المادة بتتحرك، بتبقى أمواج ميكانيكية. لو بس الطاقة بتتحرك، بتبقى أمواج كهرومغناطيسية',
-                content: '<p><strong>Demonstration:</strong> <a href="https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro_en.html">Wave Simulation</a> <a href="https://youtu.be/C-V1uXeyGmg?si=P8mIhkfNhgAddp9J">See what sound waves look like!!</a> <a href="https://youtu.be/ny6fPSibyOo?si=fEgmblry7yOx0pof">See light waves! (1:48-2:52)</a></p><ul><li>Explore different types of waves and understand the distinction between mechanical and electromagnetic waves.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro_en.html">محاكاة للموجات</a> <a href="https://youtu.be/C-V1uXeyGmg?si=P8mIhkfNhgAddp9J">شوف شكل الموجات الصوتية!!</a> <a href="https://youtu.be/ny6fPSibyOo?si=fEgmblry7yOx0pof">شوف الموجات الضوئية! (من 1:48 إلى 2:52)</a></p><ul><li>استمتع بفهم أنواع مختلفة من الموجات واستكشاف الفارق بين الموجات الميكانيكية والكهرومغناطيسية.</li></ul>',
             },
             {
                 id: 48,
                 heading: '1.1 درب التبانة واحدة من ملايين المجرات كل واحدة بشكل مختلف',
-                content: '<p><strong>Demonstration:</strong> <a href="https://svs.gsfc.nasa.gov/10661/">Galaxy Formation</a> / <a href="https://youtu.be/O674AZ_UKZk?si=2CxtZOnAIf9iGw0x">Simulation</a></p><ul><li>See beautiful NASA simulations of the formation of galaxies to understand their variety and shapes.</li></ul>',
+                content: '<<p><strong>العرض التوضيحي:</strong><a href="https://youtu.be/O674AZ_UKZk?si=2CxtZOnAIf9iGw0x">محاكاة</a> <a href="https://svs.gsfc.nasa.gov/10661/">تكوّن المجرات</a></p><ul><li>شوف محاكاة رائعة من وكالة ناسا لتكوين المجرات عشان تفهم تنوعها وأشكالها.</li></ul><p>&nbsp;💡 ازاي نقدر ندرس حاجات بعيدة في الفضاء؟ مش بس من خلال التليسكوبات! على سبيل المثال، نقدر ندرس كمية الضوء من النجوم عشان نعرف مدى بُعدها.</p><p>&nbsp;</p>',
             },
             {
                 id: 49,
                 heading: '1.2 النظام الشمسي هو كل الأجسام اللي بتدور بسبب جاذبية الشمس',
-                content: '<p><strong>Demonstration:</strong> <a href="https://www.solarsystemscope.com/">Solar System Scope</a> / <a href="https://play.google.com/store/apps/details?id=air.com.eu.inove.sss2&amp;hl=en&amp;gl=US">App if you&rsquo;re on mobile</a></p><ul>	<li>Explore this beautiful interactive model of our solar system!</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://www.solarsystemscope.com/">نطاق النظام الشمسي</a> <a href="https://play.google.com/store/apps/details?id=air.com.eu.inove.sss2&amp;hl=en&amp;gl=US">التطبيق لو أنت على الموبايل</a></p><ul><li>استكشف نموذج تفاعلي جميل!! لنظامنا الشمسي</li></ul>',
             },
              {
                 id: 50,
                 heading: '1.3 الكواكب ممكن تكون صخرية أو غازية، وجاذبيتها أقوى اتوقع حجمها',
-                content: '<p><strong>Demonstration: <a href="https://javalab.org/en/solar_system_en/">Planets side by side comparisons!</a></strong></p><ul><li>Explore the relationship between the planets to understand their varying gravitational pulls.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://javalab.org/en/solar_system_en/">مقارنة الكواكب جنبًا إلى جنب!</a></p><ul><li>استكشف العلاقة بين الكواكب عشان تفهم اختلافات جاذبياتها.</li></ul>',
             },
              {
                 id: 51,
                 heading: '2.1 الأرض في منطقة مثالية لوجود الماء السائل: مش كبيرة أو صغيرة أو حارة أو باردة.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://www.pbslearningmedia.org/resource/nvap-sci-goldilocks/the-goldilocks">Goldilocks Zone Model</a> <a href="https://youtu.be/6Ihbuy5g84g?si=JwbnJXLdN7FPd3Ab">Earth&rsquo;s Glowup</a></p><ul><li><p>Understand the concept of the Goldilocks zone and why earth was suitable for the emergence of life!</p>	<p>💡 Fun fact: earth might not be the only one! These days, we&rsquo;re finding new exoplanets all the time. Many have conditions similar to earth. Also, it&rsquo;s possible that life may exist outside of these conditions, though it would look very different from what we&rsquo;re used to.</p>	<p>&nbsp;</p></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://www.pbslearningmedia.org/resource/nvap-sci-goldilocks/the-goldilocks">نموذج منطقة الذهبيلوكس</a> <a href="https://youtu.be/6Ihbuy5g84g?si=JwbnJXLdN7FPd3Ab">تطور الأرض</a></p><ul><li><p>افهم مفهوم منطقة الذهبيلوكس وليه كانت الأرض مناسبة لظهور الحياة!</p>	<p>💡 الأرض ممكن متكنش الوحيدة! في الفنرة، بنلاقي كواكب جديدة باستمرار. كتير منها عندها ظروف زي الأرض. غير كدا ممكن إن الحياة تكون موجودة من غير الظروف دي اصلا، بس هتكون شكلها مختلف تماما عن اللي احنا متعودين عليه.</p>',
             },
              {
                 id: 52,
                 heading: '2.2 الأرض عندها طبقات واقية من فوق',
-                content: '<p><strong>Demonstration:</strong> <a href="https://scied.ucar.edu/learning-zone/atmosphere/layers-earths-atmosphere">Earth&rsquo;s Atmosphere!</a> <strong><a href="https://www.thinglink.com/scene/1423371122996412417">Interactive Mural</a> <a href="https://svs.gsfc.nasa.gov/20014">Fly!</a></strong></p><ul><li>Explore Earth&#39;s magnetic field as a protective and diverse layer<!-- notionvc: ef5c5431-de4d-406d-bf0a-74e261ef00fa --></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://scied.ucar.edu/learning-zone/atmosphere/layers-earths-atmosphere">الغلاف الجوي للأرض!</a> <a href="https://www.thinglink.com/scene/1423371122996412417">لوحة تفاعلية</a> <a href="https://svs.gsfc.nasa.gov/20014">!طير</a></p><ul>	<li>استكشف حقل الأرض المغناطيسي كطبقة واقية ومتنوعة.</li></ul>',
             },
              {
                 id: 53,
                 heading: '2.3  الأرض عندها طبقات من جوا (نقدر ندرسها!)',
-                content: '<p><strong>Demonstration:</strong> <a href="https://www.edverse.com/asset-library-detail/76/4/Layers-earthson/Inside-the-Earth-HS-PS/">Break the earth open!</a>&nbsp;/&nbsp;<a href="https://youtu.be/QCKr-rP_o5U?si=XFUxICksXeW2OtKx">Scaled 3D animation</a>&nbsp; /&nbsp;<a href="https://spaceplace.nasa.gov/earth-fan/en/">Make a fan with the layers</a></p><ul><li>Journey to the center of the earth!</li></ul><p>💡 How do we know this? We study a lot of earth&rsquo;s structure through seismic waves that reach us after earthquakes. Different elements interact with waves differently, so we can find out what the earth is made of!</p><p>&nbsp;</p>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://www.edverse.com/asset-library-detail/76/4/Layers-earthson/Inside-the-Earth-HS-PS/">كسر الأرض إلى نصفين!</a> <a href="https://youtu.be/QCKr-rP_o5U?si=XFUxICksXeW2OtKx">تحريك ثلاثي الأبعاد</a> /<a href="https://spaceplace.nasa.gov/earth-fan/en/">صنع مروحة باستخدام الطبقات</a></p><ul><li>	<p>رحلة إلى مركز الأرض!</p>	<p>💡 <strong>إزاي عرفنا ده؟</strong> ندرس بنية الأرض كتير من خلال الأمواج الزلزالية اللي بتوصل لنا بعد الزلازل. العناصر المختلفة بتتفاعل مع الأمواج بطرق مختلفة، فنقدر نعرف من إيه الأرض مكونة!</p>',
             },
         ];
 
