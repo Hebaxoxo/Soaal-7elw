@@ -375,187 +375,187 @@
             {
                 id: 1,
                 heading: ' 1.1  نقدر نوصف السرعة باستخدام رقمين بس',
-                content: '<p>&nbsp;&nbsp;<strong>Demonstration: <a href="https://smartgraphs-activities.concord.org/activities/339-describing-velocity/student_preview/">Describing velocity</a></strong></p><ul><li>Go through an interactive experience learning how to describe velocity</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://smartgraphs-activities.concord.org/activities/339-describing-velocity/student_preview/">وصف السرعة</a></p><ul><li>خوض تجربة تفاعلية لتعلم كيفية وصف السرعة!</li></ul>',
             },
             {
                 id: 2,
                 heading: ' 1.2 سرعة العربيات بتتغير على حسب الزحمة.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://contrib.pbslearningmedia.org/WGBH/conv20/phy03-int-accel/index.html">Acceleration with a virtual car</a></p><ul><li>Explore acceleration by conducting an experiment with toy cars to understand speed changes.<!-- notionvc: d43dbcf5-f54a-4f80-98fb-35ba65b40dc3 --></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://contrib.pbslearningmedia.org/WGBH/conv20/phy03-int-accel/index.html">تسارع بسيارة افتراضية</a></p><ul><li>استكشف مفهوم التسارع من خلال إجراء تجربة مع سيارات لعب لفهم تغيرات السرعة.</li></ul>',
             },
             {
                 id: 3,
                 heading: '1.3 السرعة النسبية بتوضح ازاي ممكن أنا وانت نشوف نفس العربية بتتحرك بسرعات مختلفة !.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://ophysics.com/k11.html">Hit the red point</a></p><ul>	<li>Demonstrate relative velocity using a simple activity to understand how observers perceive motion differently.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://ophysics.com/k11.html">اوصل للنقطة الحمرا</a></p><ul><li>عرض للسرعة النسبية باستخدام نشاط بسيط عشان نفهم إزاي الناس بتشوف الحركة بطرق مختلفة.<!-- notionvc: 30b53071-6ca4-4dfc-9e43-519c68082ba5 --></li></ul>',
             },
             {
                 id: 4,
                 heading: '2.1 ممكن نستخدم الرسومات البيانية علشان نتنبأ بالحركة.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://ophysics.com/k4b.html">see how graphs are interrelated</a><strong>/ <a href="https://youtu.be/bqf8m7xNvLg?si=JpZpKm3gfMhFN7gz">graph representation</a></strong></p><ul>	<li>Master the powerful tool of graphs</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://ophysics.com/k4b.html">شوف إزاي الرسوم البيانية مترابطة</a> / <a href="https://youtu.be/bqf8m7xNvLg?si=JpZpKm3gfMhFN7gz">تمثيل الرسم البياني</a></p><ul><li>اتقن الرسوم البيانية</li></ul>'
             },
              {
                 id: 5,
                 heading: '3.1 لو لفيت في دايرة انت كدة متحركتش.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/EUrMI0DIh40?si=e1ujZVIs6UUS7OiK">Angry Birds</a>&nbsp;/&nbsp;<a href="https://youtu.be/ml4NSzCQobk?si=sdglYEgy6jbLhbfR">Scalar and vector quantities visualised!</a></p><ul><li>See why vectors are even useful!<!-- notionvc: 3ece0940-bf5a-4301-bedc-ece4d11f0a5f --></li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/EUrMI0DIh40?si=e1ujZVIs6UUS7OiK">طيور الغضب</a> <a href="https://youtu.be/ml4NSzCQobk?si=sdglYEgy6jbLhbfR">تصوّر الكميات الطلائية والفيكتورية!</a></p><ul><li>شوف ليه المتجهات مفيدة اصلا</li></ul>'
             },
              {
                 id: 6,
                 heading: '1.1 المرايات بتشوف الدنيا بالمعكوس!',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/bjlYKvQo-kI?si=AyTumk0GN95QSeDi">Why is ambulance written in reverse</a></strong></p><ul><li>Understand lateral inversion and learn why mirrors reverse images.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/bjlYKvQo-kI?si=AyTumk0GN95QSeDi">ليه كتابة &quot;الإسعاف&quot; بتتكتب بشكل معكوس</a></p><ul>	<li>فهم التضخيم الجانبي وتعلم ليه المرايا بتعكس الصور.</li></ul>'
             },
              {
                 id: 7,
                 heading: '1.2 مراية أوضتك بتشتغل أساسًا بسبب خصائص الضوء.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/ETF2-Zz3J18?si=WXf9rk1Bnb7tZoMl">Laws of light reflection experiment</a> <strong><a href="https://youtu.be/uQE659ICjqQ?si=hpR0hQGPn1K0LHG3">Get a preview of light&rsquo;s interesting properties!</a></strong></p><ul><li>Explore the laws of light reflection using mirrors to understand how your room&#39;s mirror works.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/ETF2-Zz3J18?si=WXf9rk1Bnb7tZoMl">تجربة قوانين انعكاس الضوء</a> <a href="https://youtu.be/uQE659ICjqQ?si=hpR0hQGPn1K0LHG3">احصل على لمحة عن خصائص الضوء الاساسية!</a></p><ul><li>استكشف قوانين انعكاس الضوء باستخدام المرايا لفهم مرآة غرفتك بتشتغل ازاي</li></ul>'
             },
             {
                 id: 8,
                 heading: '1.3 الأشكال المختلفة للمرايات بتجمع الضوء بطرق مختلفة!',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/jtTBOMVMSYM?si=mOu05Mr4idlS5Scj">concave and convex mirror</a> <a href="https://ophysics.com/l10.html">be in control of diagrams</a></strong></p><ul><li>Explore the properties of concave and convex mirrors and understand how they reflect light differently.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/jtTBOMVMSYM?si=mOu05Mr4idlS5Scj">المرايا القوسية والمقعرة</a> <a href="https://ophysics.com/l10.html">كن في السيطرة على الرسوم البيانية</a></p><ul><li>استكشف خصائص المرايا القوسية والمقعرة وفهم كيف تعكس الضوء بشكل مختلف.</li></ul>'
             },
             {
                 id: 9,
                 heading: '2.1 قصر النظر أو طوله ممكن نعالجهم باستخدام أنواع مختلفة من العدسات.',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/6OZwGzWQAfQ?si=xrCrKN9pfdg0lROM">Causes of long and short sight</a> <a href="https://www.physicsclassroom.com/Physics-Interactives/Reflection-and-Mirrors/Plane-Mirror-Images/Plane-Mirror-Interactive">Image formation interactive</a></strong></p><ul><li>Explore the properties of concave and convex mirrors and understand how they reflect light differently.</li><li>Ever wonder <a href="https://www.vox.com/videos/2023/3/7/23629462/myopia-nearsightedness-glasses-elongated-eyeballs">why so many people need glasses?</a></li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/6OZwGzWQAfQ?si=xrCrKN9pfdg0lROM">أسباب طول و قصر البصر</a> <a href="https://www.physicsclassroom.com/Physics-Interactives/Reflection-and-Mirrors/Plane-Mirror-Images/Plane-Mirror-Interactive">افهم بصورة تفاعلية</a></p><ul><li>سألت نفسك <a href="https://www.vox.com/videos/2023/3/7/23629462/myopia-nearsightedness-glasses-elongated-eyeballs">ليه ناس كتير بتحتاج نظارات؟</a></li></ul>'
             },
         {
                 id: 10,
                 heading: '2.2 مشاكل النظر بتحصل بسبب اختلاف في تكوين العين عن التكوين الطبيعي.',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/fyYaDeTonVQ?si=rhhuF9eBKI7XB6wq">What&rsquo;s a real and virtual image?</a> <a href="https://youtu.be/IFjt2QnjfuI?si=Fwhpn14kWf8kjmG1">How glasses work.</a></strong></p><ul>	<li>Explore the principles of lenses and vision correction to understand how long and short-sightedness are treated using different lenses</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/fyYaDeTonVQ?si=rhhuF9eBKI7XB6wq">ايه هي الصورة الحقيقية والصورة الافتراضية؟</a> <a href="https://youtu.be/IFjt2QnjfuI?si=Fwhpn14kWf8kjmG1">النظارات بتشتغل ازاي</a></p><ul><li>استكشف مبادئ العدسات وتصحيح الرؤية لفهم ازاي يتم علاج طول البصر وقصر البصر باستخدام عدسات مختلفة.</li></ul>'
             },
          {
                 id: 11,
                 heading: '1.1 كوكبنا هو واحد من عدد لا نهائي من الكواكب!',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/TKM0P3XlMNA?si=fbEW9IZ8y6q7XrMS">our planet and solar system</a></strong> <a href="https://www.solarsystemscope.com/">Solar System Scope</a> <a href="https://play.google.com/store/apps/details?id=air.com.eu.inove.sss2&amp;hl=en&amp;gl=US">App if you&rsquo;re on mobile</a></p><ul><li>Explore the vastness of our solar system and the multitude of planets within it</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/TKM0P3XlMNA?si=fbEW9IZ8y6q7XrMS">كوكبنا والمجموعة الشمسية</a> / <a href="https://www.solarsystemscope.com/">!!نموذج النظام الشمسي</a> <a href="https://play.google.com/store/apps/details?id=air.com.eu.inove.sss2&amp;hl=en&amp;gl=US">التطبيق إذا كنت على الموبايل</a></p><ul><li>استكشف شمولية نظامنا الشمسي وتعدد الكواكب فيه.</li></ul>'
             },
          {
                 id: 12,
                 heading: '1.2 الكون بتاعنا بدأ من نقطة واحدة.',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/wNDGgL73ihY?si=jv3Tu7ZZXNMaFiLK">the big bang phenomenon</a> <a href="https://svs.gsfc.nasa.gov/12656/">NASA simulation</a></strong></p><ul><li>Learn about the origin of the universe and the Big Bang theory, which posits that our universe started from a single point.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/wNDGgL73ihY?si=jv3Tu7ZZXNMaFiLK">ظاهرة الانفجار الكبير</a> <a href="https://svs.gsfc.nasa.gov/12656/">محاكاة من ناسا</a></p><ul><li>تعرف على أصل الكون ونظرية الانفجار الكبير.</li></ul>'
             },
          {
                 id: 13,
                 heading: '1.3 النظام الشمسي بتاعنا فريد وفي نفس الوقت واحد من كتير',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/x1QTc5YeO6w?si=EOUhaRmhXsFDr3w3">formation of the solar systems</a>&nbsp;/&nbsp;<a href="https://youtu.be/yXq1i3HlumA?si=W3tU6w1JqVUIT_6d">simulation</a></strong></p><ul><li>Explore the formation of solar systems, including our own, and understand the uniqueness and commonality of different solar systems.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/x1QTc5YeO6w?si=EOUhaRmhXsFDr3w3">تكوين الأنظمة الشمسية</a> /<a href="https://youtu.be/yXq1i3HlumA?si=W3tU6w1JqVUIT_6d">محاكاة</a></p><ul><li>استكشف تكوين الأنظمة الشمسية، و منه النظام الشمسي الخاص بنا، وافهم الفرادة والشيوع بين الأنظمة الشمسية المختلفة.</li></ul>'
             },
 {
                 id: 14,
                 heading: '1.1 أغلب خلايا جسمنا بتنقسم لخليتين متطابقتين تمامًا !',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/L61Gp_d7evo?si=x1OOlx3zuyzj4hI2">Real Mitosis</a> <a href="https://biomanbio.com/HTML5GamesandLabs/Genegames/mitosismoverpage.html">Old simulation but great for remembering the steps!</a> <a href="https://youtu.be/L0k-enzoeOM?si=DfyE0CnXll4P9rm6">Mitosis in detail</a></p><ul><li>Explore mitosis through simulations</li><li><a href="https://youtu.be/RxHTaTmPlwQ?si=Jp81LdwTZaAg1Vnf">Look at</a> <a href="https://youtu.be/DDqDmsQwfLU?si=xZcym1cx2lFs6oc7">REAL</a> <a href="https://youtu.be/rXG27G3bWzY?si=JoecgVbJn3zaQmN-">cell division!</a></li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/L61Gp_d7evo?si=x1OOlx3zuyzj4hI2">انقسام الخلايا الحقيقي</a> <a href="https://biomanbio.com/HTML5GamesandLabs/Genegames/mitosismoverpage.html">محاكاة قديمة ولكنها رائعة لفكر الخطوات!</a> <a href="https://youtu.be/L0k-enzoeOM?si=DfyE0CnXll4P9rm6">انقسام الخلايا بالتفصيل</a></p><ul><li>استكشف انقسام الخلايا من خلال المحاكاة.</li></ul><p><strong>شاهد:</strong> <a href="https://youtu.be/RxHTaTmPlwQ?si=Jp81LdwTZaAg1Vnf">انقسام الخلايا الحقيقي!</a>/ <a href="https://youtu.be/DDqDmsQwfLU?si=xZcym1cx2lFs6oc7">حقيقي أيضًا!</a><a href="https://youtu.be/rXG27G3bWzY?si=JoecgVbJn3zaQmN-">واحد تالت</a></p>'
             },
         {
                 id: 15,
                 heading: ' 1.2 بتحصل عملية مخنلفة للخلايا الجنسية للحفاظ على كمية الكروموسومات.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/zGVBAHAsjJM?si=EuYfdhTXkwc3AO34">Meiosis Modeling Activity</a> <a href="https://www.cellsalive.com/meiosis_js.htm">Meiosis Interactive</a> <a href="https://youtu.be/qCLmR9-YY7o?si=ShgEAU90YRNSFAfY">Meiosis in detail</a></p><ul><li>Model the process of meiosis to understand how it ensures chromosome consistency in reproductive cells.</li></ul>'
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/zGVBAHAsjJM?si=EuYfdhTXkwc3AO34">نموذج الأميوز</a> <a href="https://www.cellsalive.com/meiosis_js.htm">تفاعليات الأميوز</a> <a href="https://youtu.be/qCLmR9-YY7o?si=ShgEAU90YRNSFAfY">الأميوز بالتفصيل</a></p><ul><li>نموذج للأميوز لفهم ازاي يتم الحفاظ علي عدد الصبغيات في الخلايا الإنجابية.</li></ul>'
             },
             {
                 id: 16,
                 heading: '2.1 الميتوز بنحصل لاسباب متعددة',
-                content: '<<p><strong>Demonstration:</strong> <a href="https://youtu.be/X7Qz9oc4DsA?si=oD0QUtCH-OxX7SI1">Real Binary Fission</a> <a href="https://youtu.be/m12xsf5g3Bo?si=qVY7MY4JpDf7aBiv">Watch amazing (and gross!) regeneration!</a></p><ul><li>Watch different manifestations of mitosis, including binary fission and fragmentation with regeneration.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/X7Qz9oc4DsA?si=oD0QUtCH-OxX7SI1">تقسيم ثنائي حقيقي</a> <a href="https://youtu.be/m12xsf5g3Bo?si=qVY7MY4JpDf7aBiv">شاهد التجديد المذهل (والقذارة!)</a></p><ul><li>شوف مظاهر مختلفة للانقسام الخلوي، بما في ذلك التقسيم الثنائي والتجزؤ مع التجديد.</li></ul>',
             },
             {
                 id: 17,
                 heading: '2.2 الميوز بيسمح بالتكاثر الجنسي وتنوع الفصيلة.',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/7ww5T7hCdn4?si=XdexMDmOt5M2xlLH">egg , sperm and fertilization</a></strong></p><ul><li>Understand how meiosis and fertilization allow for sexual reproduction and genetic diversity.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/7ww5T7hCdn4?si=XdexMDmOt5M2xlLH">البيضة، الحيوان المنوي، وعملية التخصيب</a></p><ul><li>افهم إزاي عمليات الأميوز والتخصيب بتسمح بالتكاثر الجنسي وتعدد الأنماط الوراثية.</li></ul>',
             },
             {
                 id: 18,
                 heading: '1.1 الحرارة البسيطة بتفكك العناصر!',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/JYaBlFijkRM?si=qj4cc6lRJN75yuPV">Thermal Decomposition of Baking Soda</a> <a href="https://youtu.be/EMa5p7htLuc?si=z1sGVj3UVvDYK1v5">Another experiment!</a></p><ul><li>Explore the thermal decomposition of baking soda as a demonstration of heat breaking apart elements.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/JYaBlFijkRM?si=qj4cc6lRJN75yuPV">تفكك الصودا الكاوية الحراري</a> <a href="https://youtu.be/EMa5p7htLuc?si=z1sGVj3UVvDYK1v5">تجربة أخرى!</a></p><ul>	<li>استكشف تفكك الصودا الكاوية تحت الحرارة كتجربة لفهم ازاي ممكن للحرارة امها تفككك العناصر.<!-- notionvc: 8e07a4db-ffb9-4213-9d4f-57f732290564 --></li></ul>',
             },
             {
                 id: 19,
                 heading: '1.2 العناصر اللي نشطة أكتر بتيجي مكان العناصر الأقل في النشاط في المركّبات!',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/hjB96do_fRw?si=X43uiafJ8NeE9iWp">Single Replacement Reaction</a></p><ul>	<li>Watch a single replacement reaction to show how more reactive elements replace less reactive elements in a compound.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/hjB96do_fRw?si=X43uiafJ8NeE9iWp">تفاعل الاستبدال الفردي</a></p><ul>	<li>شاهد تفاعل الاستبدال الفردي لتوضيح ازاي ممكن للعناصر الأكثر نشاطًا استبدال العناصر الأقل نشاطًا في مركب.<!-- notionvc: 00413567-aef7-4cff-a59a-56d22b272299 --><!-- notionvc: 8e07a4db-ffb9-4213-9d4f-57f732290564 --></li></ul>',
             },
             {
                 id: 20,
                 heading: '1.3 أحيانًا العناصر بتبدل مكانها علشان توفر طاقة.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/8d6T500BRwY?si=w2VUCFfPwFaCjAl5retical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Le_Chateliers_Principle/Le_Chateliers_Principle_Demonstrations/Demonstrations_of_Le_Chateliers_Principle">Double Replacement Reaction</a> <a href="https://youtu.be/zEnY9lUPDec?si=pobg9qOMdQpGgo3m">Why it happens</a></p><ul>	<li>Explore a double replacement reaction as a demonstration of elements switching places to minimize energy.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/8d6T500BRwY?si=w2VUCFfPwFaCjAl5retical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Le_Chateliers_Principle/Le_Chateliers_Principle_Demonstrations/Demonstrations_of_Le_Chateliers_Principle">تفاعل الاستبدال المزدوج</a>&nbsp; /&nbsp;<a href="https://youtu.be/zEnY9lUPDec?si=pobg9qOMdQpGgo3m">ليه بيحصل</a></p><ul>	<li>استكشف تفاعل الاستبدال المزدوج وال عرض للعناصر الي بتبدل أماكنها لتقليل الطاقة.</li></ul>',
             },
             {
                 id: 21,
                 heading: '1.4 حركة الإلكترونات حوالين النواة هي اللي بتعرفلنا تفاعلات الأكسدة والاختزال.',
-                content: 'p><strong>Demonstration:</strong> <a href="https://youtu.be/4-LA9BxQsdE?si=CSz-r5tpP4YfipuU">Examples of redox reactions</a>&nbsp;/&nbsp;<a href="https://youtu.be/NaJIEyxHdHE?si=h5MSvhMPZw0KsRq9">One you can try at home with coins!</a>&nbsp;/&nbsp; <a href="https://youtu.be/RX6rh-eeflM?si=FEAKo0gINIvXH769">Understand them in depth</a></p><ul><li>See demonstrations of redox reactions and the movement of electrons.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/4-LA9BxQsdE?si=CSz-r5tpP4YfipuU">أمثلة على تفاعلات الأكسدة والاختزال</a> <a href="https://youtu.be/NaJIEyxHdHE?si=h5MSvhMPZw0KsRq9">واحد تقدر تجربه في البيت بالعملات!</a>/ <a href="https://youtu.be/RX6rh-eeflM?si=FEAKo0gINIvXH769">افهمها بعمق اكتر</a></p><ul><li>شوف عروض لتفاعلات الأكسدة والاختزال وحركة الإلكترونات.<!-- notionvc: 57b4163f-ce3c-4c68-9c97-8511abef6f6d --></li></ul>',
             },
             {
                 id: 22,
                 heading: '2.1 سرعة التفاعل بتتأثر أساسًا بادرجة الحرارة وكمية التصادمات الي بتحصل. ',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/VGA72IzXdHI?si=fVmkj_j6U8GVM4Zq">factors affecting</a> <a href="https://youtu.be/D6la4z4ai9s?si=klpI9TyaUm-cMoAV">reaction speed</a>/<a href="https://www.youtube.com/watch?v=OttRV5ykP7A">How to speed up chemical reactions</a></strong></p><ul><li>See with your own eyes how certain factors affect the speed of a reaction.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/VGA72IzXdHI?si=fVmkj_j6U8GVM4Zq">العوامل المؤثرة</a> <a href="https://youtu.be/D6la4z4ai9s?si=klpI9TyaUm-cMoAV">في سرعة التفاعل</a> / <a href="https://www.youtube.com/watch?v=OttRV5ykP7A">ازاي تسرع التفاعلات الكيميائية</a></p><ul>	<li>شوف بعينيك ازاي بتأثر بعض العوامل على سرعة التفاعل.</li></ul>',
             },
             {
                 id: 23,
                 heading: '1.1 تيار إلكترونات، زي المياه، ممكن يكون له تدفق وكثافة مختلفين ',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/oI_X2cMHNe0?si=Wfeyd3v7RXvlYjHt">How Electricity actually works!</a> <a href="https://youtu.be/x7jhnXUIavg?si=K5d4Mtt3LjiLrsih">Water analogy</a> <a href="https://youtu.be/7O4vhW3mdh0?si=QTJSUrQebFdtTMmo">in more detail</a> <a href="https://javalab.org/en/electric_potential_en/">play around with potential</a></strong></p><ul><li>Explore the properties of electric current and voltage through demonstration.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/oI_X2cMHNe0?si=Wfeyd3v7RXvlYjHt">إزاي الكهرباء شغالة فعلًا!</a> /<a href="https://youtu.be/x7jhnXUIavg?si=K5d4Mtt3LjiLrsih">تشبيه بالماء</a>/ <a href="https://youtu.be/7O4vhW3mdh0?si=QTJSUrQebFdtTMmo">بتفصيل أكتر</a>/ <a href="https://javalab.org/en/electric_potential_en/">العب بالجهد</a></p><ul><li>استكشف مبادئ التيار الكهربائي والجهد.</li></ul>',
             },
                {
                 id: 24,
                 heading: ' 1.2 !حتى التيار الكهربي بيقابل عوائق',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/FFHUoWFtab0?si=RXUUXzAAXSbWG3US">Electric Resistance Visualized</a> <a href="https://javalab.org/en/resistance_connection_en/">Resistance simulation!</a></p><ul>	<li>Watch marbles move to understand electric resistance.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/FFHUoWFtab0?si=RXUUXzAAXSbWG3US">تصور المقاومة الكهربائية</a> /<a href="https://javalab.org/en/resistance_connection_en/">محاكاة المقاومة!</a></p><ul>	<li>شوف ازاي تتحرك الكرات لفهم المقاومة الكهربائية.</li></ul>',
             },
                {
                 id: 25,
                 heading: '1.3 قانون أوم أساسي لاي دراسة في الكهربا',
-                content: '<<p><strong>Demonstration:</strong> <a href="https://javalab.org/en/ohms_law_en/">Ohm&#39;s Law Simulation</a></p><ul><li>Use a simulation to explore Ohm&#39;s Law and its fundamental principles.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://javalab.org/en/ohms_law_en/">محاكاة قانون أوم</a></p><ul><li>استخدم محاكاة لاستكشاف قانون أوم ومبادئه الأساسية.</li></ul>',
             },
                {
                 id: 26,
                 heading: '2.1 فيه طرق مختلفة لتوصيل الخلايا الكهربائية في الدايرة الكهربية ',
-                content: '<<p><strong>Demonstration: <a href="https://javalab.org/en/serial_parallel_circuit_en/">Visualize Series and Parallel Connections</a>/ <a href="https://youtu.be/fQcPEeoiUwU?si=y1-7bqknp-wFFUGX">DC and AC</a>/ <a href="https://youtu.be/S7C5sSde9e4?si=HgFP6K0NTpwQX81Q">Why AC!!</a></strong></p><ul><li>Explore different methods of connecting electric cells in a circuit.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://javalab.org/en/serial_parallel_circuit_en/">تصور الاتصالات التسلسلية والتوازية</a> / <a href="https://youtu.be/fQcPEeoiUwU?si=y1-7bqknp-wFFUGX">تيار مستمر وتيار متناوب</a> / <a href="https://youtu.be/S7C5sSde9e4?si=HgFP6K0NTpwQX81Q">ليه التيار المتناوب!!</a></p><ul><li>استكشف الطرق المختلفة لربط الخلايا الكهربائية.</li></ul>',
             },
              {
                 id: 27,
                 heading: ' 2.2 اختلاف الجهد في البطاريات يولِّد القوة الدافعة الكهربية',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/shJAV59NS6k?si=98FCXh02ghZB369m">How E.M.F works</a></p><ul><li>Explore how electromotive force is generated in batteries through a simple demonstration.</li>	<li>	<p>💡 How does this work? Batteries simply harness electrical chemical energy. We put negatively charged ions on one side and positively charged ions on the other! These causes a difference in potential creating a force that can push electrons. Like water falling off a cliff!</p>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/shJAV59NS6k?si=98FCXh02ghZB369m">ازاي قوة الدفع الكهرومحركة بتشتغل</a></p><ul>	<li>شوف ازاي يتم توليد قوة الدفع الكهرومحركة في البطاريات من خلال عرض بسيط.</li></ul><p>&nbsp;💡 ازاي بيحصل دا؟ ببساطة البطاريات بتستخدم الطاقة الكيميائية الكهربائية. بنحط أيونات سالبة على جنب وإيونات موجبة على الجنب التاني! دا بيسبب فرقً في الجهد و بيخلق قوة لدفع الإلكترونات. مثل الماء الي بتنزل من الشلال</p>',
             },
              {
                 id: 28,
                 heading: '3.1 الذرات يمكنها إطلاق جسيمات إذا كان لديها طاقة زائدة',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/TJgc28csgV0?si=mH4Lm20_3JfTN5B0">Radioactivity Visualized</a></strong></p><ul><li>Explore how insane the concept of radioactivity is!<!-- notionvc: 941ba82f-4a32-447b-827b-439387140d0e --><!-- notionvc: 4671fe41-5140-44af-a73c-f79ee299b827 --></li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/TJgc28csgV0?si=mH4Lm20_3JfTN5B0">تصور الإشعاع</a></p><ul>	<li>استكشف مدى غرابة الإشعاع!</li></ul>',
             },
             {
                 id: 29,
                 heading: '3.2 !الطاقة النووية سلاح ذو حدين',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/poPLSgbSO6k?si=gwph_4BRl1wYfubG">Nuclear Energy Explained</a></p><ul><li>Gain an understanding of nuclear energy, its benefits, and potential risks.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/poPLSgbSO6k?si=gwph_4BRl1wYfubG">شرح الطاقة النووية</a></p><ul>	<li>احصل على فهم قوي للطاقة النووية وفوائدها والمخاطر المحتملة.</li></ul>',
             },
             {
                 id: 30,
                 heading: ' 3.3 فيه طرق لتحمي نفسك من الإشعاع  ',
-                content: '<p><strong>Demonstration: <a href="https://youtu.be/GHBb25lzNVM?si=7tOCyyNAkzNAWdot">Surviving a nuclear blast!</a></strong></p><ul><li>Learn about measures to protect yourself from radiation exposure. (Which you&rsquo;ll hopefully never have to use!)</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/GHBb25lzNVM?si=7tOCyyNAkzNAWdot">ازاي تنجو من انفجار نووي!</a></p><ul><li>تعرف على التدابير الوقائية لحماية نفسك من التعرض للإشعاع. (اانشاءلله مش هتحتاج تستخدامها أبدًا!)<!-- notionvc: ff1dd4fc-f7f0-426d-bac1-f9b7f7a267ca --></li></ul>',
             },
             {
                 id: 31,
                 heading: '1.1 مندل استخدم المنهج العلمي (خمسيت الف تجربة) علشان يحط قانونين الوراثة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/QmiwQ0Kosa8?si=mAwsiQLhj_StGTnr">Mendel&#39;s story!</a></p><ul><li><strong>Description:</strong> Learn about how no one acknowledged Mendel&rsquo;s discoveries in his life.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/QmiwQ0Kosa8?si=mAwsiQLhj_StGTnr">قصة مينديل!</a></p><ul><li><strong>الوصف:</strong> شوف ازاي لم يتم التعرف على اكتشافات مينديل خلال حياته.</li></ul>',
             },
             {
                 id: 32,
                 heading: '1.2 في جينات بتغلب على الباقي!',
-                content: '<p><strong>Demonstration: <a href="https://javalab.org/en/test_cross_en/">Challenge: get a pure breed!</a></strong></p><ul>	<li>Step in Mendel&rsquo;s shoes and try to get two pure bread peas.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://javalab.org/en/test_cross_en/">تحدي: احصل على سلالة نقية!</a></p><ul>	<li>حط نفسك مكان مندل وحاول الحصول على بسلتين من سلالة نقية.<!-- notionvc: de0dd856-f21b-40d6-947d-88fd9dd0e882 --></li></ul>',
             },
             {
                 id: 33,
                 heading: '1.3 الاحتمالات بتتحكم في قوانين مندل',
-                content: '<p><strong>Demonstration:</strong> <a href="https://javalab.org/en/mendels_law_of_heredity_en/">Punnett Square Interactive Activity</a>&nbsp;/&nbsp; <a href="https://javalab.org/en/dihybrid_cross_en/">This one for two traits!</a></p><ul><li>Master Mendel&rsquo;s laws a Punnett Square interactive activities.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://javalab.org/en/mendels_law_of_heredity_en/">نشاط تفاعلي عن المربع انت عارف المربع</a> <a href="https://javalab.org/en/dihybrid_cross_en/">و في دا لصفتين!</a></p><ul><li>!اتقن قوانين مندل</li></ul><p>💡 ممكن تشوف قائمة بالسمات البشرية السائدة والمستسلمة، بس الحقيقة أكتر تعقيدًا! أغلب الصفات البشرية مش مسيطر عليها بواسطة جين واحد، بل بفعل تفاعل عدة جينات. يعني مفيش داعي تفتخر أمام أصحابك بقدرتك تلف لسانك!</p>',
             },
             {
                 id: 34,
                 heading: '1.4 !الجين هو وحدة المعلومات في كل الكائنات، بتقول للجسم يعمل انهي خلايا ',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/mcEV3m9SG9M?si=APgFI9GFJqWfvgY7">Origins of genes</a> <a href="https://youtu.be/C8OL1MTbGpU?si=vbAyubFszY6eVapj">Genes vs DNA vs Chromosomes</a></p><ul><li>Gain an understanding of where genes come from!</li></ul>',
+                content: '<<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/mcEV3m9SG9M?si=APgFI9GFJqWfvgY7">أصول الجينات</a> /<a href="https://youtu.be/C8OL1MTbGpU?si=vbAyubFszY6eVapj">الجينات مقابل الحمض النووي مقابل الكروموسومات</a></p><ul>	<li>افهم الجينات جت منين</li></ul>',
             },
             {
                 id: 35,
                 heading: '1.1 الهرمونات المختلفة بتوصل رسايل مختلفة.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://www.youtube.com/watch?v=cjlaMxaGw3I">Where hormones come from</a></p><ul><li>Understand endocrine glands and how they put together hormone molecules.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://www.youtube.com/watch?v=cjlaMxaGw3I">مصدر الهرمونات</a></p><ul>	<li>افهم اكتر عن الغدد الصماء وكيفية تركيبها لجزيئات الهرمون.</li></ul>',
             },
             {
                 id: 36,
                 heading: ' 1.2 الغدد الصماء بتشكل جزيئات الهرمون مع بعض زي المصنع.',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/ySkk7U_4PeY?si=_0YF4-MA5OwqgLEV">Hormones in detail!</a></p><ul>	<li>Explore all the major hormones and how they deliver different messages</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/ySkk7U_4PeY?si=_0YF4-MA5OwqgLEV">الهرمونات بالتفصيل!</a></p><ul>	<li>استكشف كل الهرمونات الرئيسية وازاي بتنقل رسائل مختلفة.</li></ul>',
             },
             {
                 id: 37,
                 heading: '1.3 مشاكل صغيرة في الهرمونات بتقدر تسبب أمراض خطيرة',
-                content: '<p><strong>Demonstration:</strong> <a href="https://youtu.be/jPx8s1modc0?si=b9Twlh5U-RCMQAbc">Understanding Growth Hormone Disorders</a></p><ul><li>Explore the concept of dwarfism and growth hormone disorders.</li></ul>',
+                content: '<p><strong>العرض التوضيحي:</strong> <a href="https://youtu.be/jPx8s1modc0?si=b9Twlh5U-RCMQAbc">فهم اضطرابات هرمون النمو</a></p><ul><li>استكشف مفهوم القزم واضطرابات هرمون النمو.</li></ul>',
             },
         ];
 
